@@ -1,0 +1,14 @@
+User-agent: *
+# Sitemap dosyasının yeri
+Sitemap: https://www.denizmekanik.com/sitemap.xml
+
+# İndexlenmesini istemediğiniz dizinler
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /private/
+Disallow: /assets/vendor/
+Disallow: /tmp/
+Disallow: /logs/
+
+# Parametreli URL'ler (gerekiyorsa)
+Disallow: /*?*

@@ -1,0 +1,120 @@
+[
+  {
+    "ad": "UNIVERSAL MERDANE TORNASI",
+    "slug": "universal-merdane-tornasi",
+    "ozellikler": ["Çap 2000 x 7000 mm."],
+    "resim": "/assets/images/makineler/merdaneTornasi.webp",
+    "aciklama": "Büyük çaplı parçaların işlenmesi için özel tasarlanmış merdane tornası"
+  },
+  {
+    "ad": "UNIVERSAL TORNA",
+    "slug": "universal-torna",
+    "ozellikler": [
+      "Çap 2500 x 7000 mm (havuzda Çap 3500mm)",
+      "Çap 1600 x 5000 mm.",
+      "Çap 1000 x 3000 mm",
+      "Çap 800 x 3000 mm.",
+      "Çap 800 x 3500 mm.",
+      "Çap 500 x 1000 mm."
+    ],
+    "resim": "/assets/images/makineler/torna.webp",
+    "aciklama": "Farklı boyutlarda hassas torna işlemleri için universal tezgahlar"
+  },
+  {
+    "ad": "BOHRWERK PLATEN",
+    "slug": "bohrwerk-platen",
+    "ozellikler": ["Çap 2500 x 10000 mm"],
+    "resim": "/assets/images/makineler/borwerk.webp",
+    "aciklama": "Büyük ebatlı parçalar için delme ve frezeleme tezgahı"
+  },
+  {
+    "ad": "BOHRWERK KLASİK",
+    "slug": "bohrwerk-klasik",
+    "ozellikler": ["Çap 1600 x 1600 mm", "Çap 1250 x 1250 mm"],
+    "resim": "/assets/images/makineler/borwerk2.webp",
+    "aciklama": "Orta ölçekli parçalar için klasik delme tezgahları"
+  },
+  {
+    "ad": "PORTAL FREZE",
+    "slug": "portal-freze",
+    "ozellikler": ["800 x 1000 x 3000 mm", "1250 x 1500 x 4000 mm"],
+    "resim": "/assets/images/makineler/portalFreze.webp",
+    "aciklama": "Büyük boyutlu parçaların hassas frezeleme işlemleri için portal tip tezgah"
+  },
+  {
+    "ad": "RADYAL MATKAP",
+    "slug": "radyal-matkap",
+    "ozellikler": ["Çap 40 mm", "Çap 50 mm", "Çap 63 mm"],
+    "resim": "/assets/images/makineler/radyalMatkap.webp",
+    "aciklama": "Farklı çaplarda delme işlemleri için radyal matkap makineleri"
+  },
+  {
+    "ad": "CNC Boru Bükme Makinesi (Ø127)",
+    "slug": "cnc-boru-bukme-makinesi-1",
+    "ozellikler": ["Max Ø127"],
+    "resim": "/assets/images/makineler/cncborubukme1.webp",
+    "aciklama": "Büyük çaplı boruların hassas bükülmesi için CNC kontrolü"
+  },
+  {
+    "ad": "Boru Ucu Kordon Makinesi",
+    "slug": "boru-ucu-kordon-makinesi",
+    "ozellikler": ["Max Ø150"],
+    "resim": "/assets/images/makineler/boruucukordon.webp",
+    "aciklama": "Boru uçlarına kordon açma işlemi için özel makine"
+  },
+  {
+    "ad": "Boru Şişirme Makinesi",
+    "slug": "boru-sisirme-makinesi",
+    "ozellikler": ["Max Ø127"],
+    "resim": "/assets/images/makineler/borusisirme.webp",
+    "aciklama": "Boruların uçlarının şişirilerek genişletilmesi için kullanılır"
+  },
+  {
+    "ad": "AZDIRMA DİŞLİ AÇMA TEZGAHI",
+    "slug": "azdirma-disli-acma-tezgahi",
+    "ozellikler": [
+      "Çap 3500 mm. – Modül 24",
+      "Çap 2500 mm. – Modül 20",
+      "Çap 1600 mm. – Modül 16",
+      "Çap 1200 mm. – Modül 12",
+      "Çap 350 mm. – Modül 5"
+    ],
+    "resim": "/assets/images/makineler/azdirmaTezgah1.webp",
+    "aciklama": "Farklı boyutlarda dişli açma işlemleri için azdırma tezgahları"
+  },
+  {
+    "ad": "DİŞLİ PROFİL TAŞLAMA TEZGAHI",
+    "slug": "disli-profil-taslama-tezgahi",
+    "ozellikler": ["Çap 800 mm. – modül 12", "Çap 315 mm. – Modül 5"],
+    "resim": "/assets/images/makineler/disliporfiltaslama.webp",
+    "aciklama": "Dişli profillerinin hassas taşlanması için özel tezgah"
+  },
+  {
+    "ad": "Giyotin Makas",
+    "slug": "giyotin-makas",
+    "ozellikler": ["Max 4mm"],
+    "resim": "/assets/images/makineler/giyotinmakas.webp",
+    "aciklama": "İnce sac malzemelerin kesilmesi için giyotin makas"
+  },
+  {
+    "ad": "CNC Boru Bükme Makinesi (Ø38)",
+    "slug": "cnc-boru-bukme-makinesi-2",
+    "ozellikler": ["Max Ø38"],
+    "resim": "/assets/images/makineler/cncborubukme2.webp",
+    "aciklama": "Küçük çaplı boruların hassas bükülmesi için CNC kontrolü"
+  },
+  {
+    "ad": "Eksantrik Presler",
+    "slug": "eksantrik-presler",
+    "ozellikler": ["150-80-60 ton"],
+    "resim": "/assets/images/makineler/eksantirikpres.webp",
+    "aciklama": "Farklı kapasitelerde eksantrik presler"
+  },
+  {
+    "ad": "Susturucu Kenet Makinesi",
+    "slug": "susturucu-kenet-makinesi",
+    "ozellikler": ["Max Ø300 x 1000 mm"],
+    "resim": "/assets/images/makineler/susturucukenet.webp",
+    "aciklama": "Susturucu üretimi için kenetleme makinesi"
+  }
+]

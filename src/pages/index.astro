@@ -1,0 +1,344 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Carousel from "../components/Carousel.astro";
+import allProjects from "../data/projeler.json";
+
+const featuredProjects = [...allProjects].reverse().slice(0, 3);
+---
+
+<Layout title="Deniz Mekanik | Vinç ve Endüstriyel Makine İmalatı">
+  <Fragment slot="head">
+    <meta
+      name="description"
+      content="Deniz Mekanik: 1952'den beri vinç, makine ve endüstriyel ekipmanlarda uzmanlaşmış lider firma. Köprü vinç, portal vinç, monoray vinç ve daha fazlası için bizi arayın."
+    />
+    <meta
+      name="keywords"
+      content="istanbul vinç, tuzla vinç, vinç, köprü vinç, portal vinç, monoray vinç, endüstriyel vinç, makine imalatı, Deniz Mekanik"
+    />
+    <link rel="canonical" href="https://www.denizmekanik.com/" />
+
+    {/* Open Graph Etiketleri */}
+    <meta
+      property="og:title"
+      content="Deniz Mekanik | Vinç ve Endüstriyel Makine İmalatı"
+    />
+    <meta
+      property="og:description"
+      content="1952'den beri vinç, makine ve endüstriyel ekipmanlarda uzmanlaşmış lider firma."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.denizmekanik.com/" />
+    <meta
+      property="og:image"
+      content="https://www.denizmekanik.com/assets/images/anasayfa/slider1.webp"
+    />
+    <meta property="og:site_name" content="Deniz Mekanik" />
+    <meta property="og:locale" content="tr_TR" />
+
+    {/* Twitter Card */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Deniz Mekanik | Vinç ve Endüstriyel Makine İmalatı"
+    />
+    <meta
+      name="twitter:description"
+      content="1952'den beri vinç, makine ve endüstriyel ekipmanlarda uzmanlaşmış lider firma."
+    />
+    <meta
+      name="twitter:image"
+      content="https://www.denizmekanik.com/assets/images/anasayfa/slider1.webp"
+    />
+
+    {/* Yapısal Veri (Schema.org) */}
+    <script type="application/ld+json" is:inline>
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Deniz Mekanik",
+        "url": "https://www.denizmekanik.com",
+        "logo": "https://www.denizmekanik.com/assets/images/logo/logo.png",
+        "foundingDate": "1952",
+        "description": "Vinç, makine ve endüstriyel ekipman imalatı",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "İstanbul Deri Organize Sanayi Bölgesi, Kazlıçeşme Caddesi No: 34",
+          "addressLocality": "Tuzla",
+          "addressRegion": "İstanbul",
+          "postalCode": "34956",
+          "addressCountry": "TR"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+905326948116",
+          "contactType": "customer service",
+          "email": "info@denizmekanik.com"
+        },
+        "sameAs": [
+          "https://www.facebook.com/denizmekanik",
+          "https://www.instagram.com/denizmekanik",
+          "https://www.linkedin.com/in/deniz-mekanik-8816699a/",
+          "https://www.youtube.com/@DenizMekanik"
+        ]
+      }
+    </script>
+  </Fragment>
+  <Carousel />
+
+  <div class="container text-center my-5">
+    <h1 class="display-4 font-weight-bold">
+      70 Yıllık Tecrübe ile Vinç ve Endüstriyel Makine İmalatı
+    </h1>
+    <p class="lead text-muted mt-3">
+      Deniz Mekanik olarak, köprü vinç, portal vinç ve özel makine
+      çözümlerimizle Türkiye sanayisine güç katıyoruz. Projenize özel, anahtar
+      teslim ve %100 yerli üretim çözümler için doğru adrestesiniz.
+    </p>
+  </div>
+
+  <!-- Öne Çıkan Projeler Bölümü -->
+  <div class="container mt-5">
+    <!-- Başlık h2'ye düşürüldü -->
+    <h2 class="text-center mb-4 font-weight-bold">Öne Çıkan Projelerimiz</h2>
+    <div class="row">
+      {
+        featuredProjects.map((proje) => (
+          <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+              <img
+                src={proje.resim}
+                class="card-img-top"
+                alt={proje.ad}
+                style="height: 200px; object-fit: cover;"
+              />
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title">{proje.ad}</h5>
+                <p class="card-text small text-muted">
+                  {proje.seoAciklama.substring(0, 100)}...
+                </p>
+                <a
+                  href={`/proje/${proje.slug}`}
+                  class="btn btn-primary mt-auto"
+                >
+                  Proje Detayları
+                </a>
+              </div>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+    <div class="text-center mt-3">
+      <a href="/proje" class="btn btn-outline-primary">Tüm Projeleri Gör</a>
+    </div>
+  </div>
+
+  <hr class="featurette-divider" />
+
+  <!-- KURUMSAL BÖLÜM (Featurette) -->
+  <div class="container">
+    <div class="row featurette align-items-center">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">
+          70 Yılı Aşkın Tecrübe. <span class="text-muted"
+            >Mühendislik Mirasımız.</span
+          >
+        </h2>
+        <p class="lead">
+          1952'den bu yana, Türkiye sanayisinin gelişimine paralel olarak
+          büyüdük. Fason talaşlı imalattan anahtar teslim vinç sistemlerine
+          uzanan bu yolculukta, kaliteyi ve müşteri memnuniyetini her zaman ön
+          planda tuttuk.
+        </p>
+        <p>
+          <a class="btn btn-secondary" href="/hakkimizda"
+            >Hakkımızda Daha Fazla Bilgi &raquo;</a
+          >
+        </p>
+      </div>
+      <div class="col-md-5">
+        <img
+          src="/assets/images/anasayfa/anasayfa.webp"
+          class="img-fluid rounded"
+          alt="Deniz Mekanik üretim tesisi ve hakkında"
+        />
+      </div>
+    </div>
+
+    <!-- Diğer Featurette bölümleri buraya gelecek -->
+    <hr class="featurette-divider" />
+
+    <div class="row featurette align-items-center">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">
+          Her Sektöre Özel Çözümler. <span class="text-muted"
+            >Geniş Hizmet Yelpazesi.</span
+          >
+        </h2>
+        <p class="lead">
+          Ağır çelik ve metal sanayiinden ulaştırma altyapılarına, enerjiden
+          çevre teknolojilerine kadar geniş bir yelpazede hizmet veriyoruz.
+        </p>
+        <p>
+          <a class="btn btn-secondary" href="/hizmet-verdigimiz-sektorler"
+            >Sektörleri Keşfedin &raquo;</a
+          >
+        </p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img
+          src="/assets/images/ulastirma/demiryolu.webp"
+          class="img-fluid rounded"
+          alt="Deniz Mekanik hizmet verdiği sektörler"
+        />
+      </div>
+    </div>
+
+    <hr class="featurette-divider" />
+
+    <div class="row featurette align-items-center">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">
+          Modern ve Güçlü Makine Parkuru. <span class="text-muted"
+            >Hassasiyetin Adresi.</span
+          >
+        </h2>
+        <p class="lead">
+          Büyük kapasiteli CNC tezgahlarımız ve universal tornalarımız ile en
+          karmaşık parçaları bile kusursuz bir şekilde işliyoruz.
+        </p>
+        <p>
+          <a class="btn btn-secondary" href="/makine-parkuru"
+            >Makine Parkurunu Gör &raquo;</a
+          >
+        </p>
+      </div>
+      <div class="col-md-5">
+        <img
+          src="/assets/images/makineler/merdaneTornasi.webp"
+          class="img-fluid rounded"
+          alt="Deniz Mekanik Makine Parkuru"
+        />
+      </div>
+    </div>
+  </div>
+
+  <!-- HİZMETLER BÖLÜMÜ -->
+  {/* ... Diğer sayfa içerikleri ... */}
+
+  <!-- YENİ HİZMETLER BÖLÜMÜ -->
+  <div class="bg-light py-5 mt-5">
+    <div class="container">
+      <h2 class="text-center mb-4 font-weight-bold">Öne Çıkan Çözümlerimiz</h2>
+      <div class="row">
+        <div class="col-lg-4 mb-4 mb-lg-0">
+          <div class="card h-100 text-center border-0 shadow-sm">
+            <img
+              src="/assets/images/urunler/vinc-servis/vinc-servis.webp"
+              class="card-img-top"
+              alt="Vinç Servis ve Bakım Hizmetleri"
+              style="height: 220px; object-fit: cover;"
+            />
+            <div class="card-body d-flex flex-column">
+              <h3 class="card-title h5">Vinç Servis ve Bakım</h3>
+              <p class="card-text">
+                Vinçlerinizin ömrünü uzatan, güvenliğini ve verimliliğini
+                artıran profesyonel bakım, onarım ve revizyon hizmetleri
+                sunuyoruz.
+              </p>
+              <!-- DİKKAT: Linki dinamik sayfa yapımıza uygun olarak güncelledim -->
+              <a
+                href="/urunler/vinc-hizmetleri"
+                class="btn btn-outline-primary stretched-link mt-auto"
+                >Detayları İncele</a
+              >
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4 mb-lg-0">
+          <div class="card h-100 text-center border-0 shadow-sm">
+            <img
+              src="/assets/images/celikyapi/YukAsansoru.webp"
+              class="card-img-top"
+              alt="Hidrolik Yük Asansörleri"
+              style="height: 220px; object-fit: cover;"
+            />
+            <div class="card-body d-flex flex-column">
+              <h3 class="card-title h5">Hidrolik Yük Asansörleri</h3>
+              <p class="card-text">
+                Fabrika, depo ve endüstriyel tesisler için 10 tona varan
+                kapasiteli, güvenli ve dayanıklı dikey taşıma çözümleri.
+              </p>
+              <!-- DİKKAT: Linki dinamik sayfa yapımıza uygun olarak güncelledim -->
+              <a
+                href="/urunler/hidrolik-yuk-asansoru"
+                class="btn btn-outline-primary stretched-link mt-auto"
+                >Asansörleri İncele</a
+              >
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="card h-100 text-center border-0 shadow-sm">
+            <img
+              src="/assets/images/urunler/hidro-plat/hidro-plat.webp"
+              class="card-img-top"
+              alt="Hidrolik Yük Platformları"
+              style="height: 220px; object-fit: cover;"
+            />
+            <div class="card-body d-flex flex-column">
+              <h3 class="card-title h5">Hidrolik Yük Platformları</h3>
+              <p class="card-text">
+                Malzeme taşıma ve istifleme süreçlerinizi kolaylaştıran, 5 tona
+                kadar kapasiteli, makaslı ve özel tasarım platformlar.
+              </p>
+              <!-- DİKKAT: Linki dinamik sayfa yapımıza uygun olarak güncelledim -->
+              <a
+                href="/urunler/hidrolik-yuk-platformu"
+                class="btn btn-outline-primary stretched-link mt-auto"
+                >Platformları Keşfet</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- / YENİ HİZMETLER BÖLÜMÜ SONU -->
+
+  {/* ... Sayfanın geri kalanı ... */}
+
+  <!-- İletişim CTA Bölümü -->
+  <div class="container my-5">
+    <div class="row">
+      <div class="col-12">
+        <div
+          class="card bg-primary text-white text-center p-5 shadow-lg rounded"
+        >
+          <h2 class="font-weight-bold">Projeniz İçin Çözüm mü Arıyorsunuz?</h2>
+          <p class="lead">
+            Uzman ekibimizle tanışın, ihtiyaçlarınıza özel, anahtar teslim
+            çözümlerimiz hakkında bilgi alın.
+          </p>
+          <div class="mt-4">
+            <a href="/iletisim" class="btn btn-light btn-lg">
+              <i class="fas fa-envelope mr-2"></i> Bize Ulaşın
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .featurette-divider {
+    margin: 5rem 0;
+  }
+  .featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -0.05rem;
+  }
+</style>

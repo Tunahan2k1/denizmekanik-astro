@@ -1,0 +1,97 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import allProjectDetails from '../../data/proje-detay.json';
+import { Fragment } from 'astro/jsx-runtime';
+
+// Bu fonksiyon, build aşamasında çalışarak her proje için bir sayfa oluşturur.
+export async function getStaticPaths() {
+  return allProjectDetails.map(proje => ({
+    params: { slug: proje.slug },
+    props: { proje },
+  }));
+}
+
+// URL'den gelen slug'a göre doğru proje verisini alıyoruz.
+const { proje } = Astro.props;
+
+// --- Gelişmiş İçerik ve Resim İşleme ---
+
+let contentWithImages = proje.blogHTML;
+let images: string[] = [];
+
+// 1. Schema.org içindeki resim yollarını güvenli bir şekilde ayıkla.
+if (proje.Blogschema) {
+    try {
+        // Düzenli ifade (regex) ile "image": [...] kısmını yakala
+        const imageMatch = proje.Blogschema.match(/"image":\s*\[([^\]]+)\]/);
+        if (imageMatch && imageMatch[1]) {
+            // Yakalanan string'i bir JavaScript dizisine çevir.
+            // Örn: "\"assets/image1.webp\", \"assets/image2.webp\"" -> ["assets/image1.webp", "assets/image2.webp"]
+            images = JSON.parse(`[${imageMatch[1]}]`);
+        }
+    } catch (e) {
+        console.error(`Schema parse hatası (${proje.slug}):`, e);
+    }
+}
+
+// 2. Eğer resimler bulunduysa, onları HTML içeriğinin arasına yerleştir.
+if (images.length > 0) {
+    const contentParts = proje.blogHTML.split('</p>'); // İçeriği paragraflara böl
+    let newHtml = '';
+    let imageIndex = 0;
+
+    contentParts.forEach((part, index) => {
+        newHtml += part; // Paragraf parçasını ekle
+        
+        // Eğer boş bir parça değilse, sonuna </p> etiketini geri koy
+        if (part.trim().length > 0) {
+            newHtml += '</p>';
+        }
+
+        // Belirli sayıda paragraftan sonra (örneğin her 2 paragrafta bir) veya ilk paragraftan sonra bir resim ekle
+        // ve eklenecek resim hala varsa...
+        if ((index + 1) % 2 === 1 && imageIndex < images.length) {
+            const imageSrc = images[imageIndex];
+            // Resim etiketini oluştur ve yeni HTML'e ekle
+            newHtml += `<img src="/${imageSrc}" class="img-fluid my-4 rounded shadow-sm" alt="${proje.title} Proje Görseli ${imageIndex + 1}" loading="lazy" />`;
+            imageIndex++;
+        }
+    });
+
+    contentWithImages = newHtml;
+}
+---
+
+<Layout title={proje.title}>
+  <Fragment slot="head">
+    <meta name="description" content={proje.description} />
+    <link rel="canonical" href={`https://www.denizmekanik.com/proje/${proje.slug}`} />
+    <!-- Schema.org Script'ini doğrudan HTML'e ekliyoruz -->
+    <Fragment set:html={proje.Blogschema} />
+  </Fragment>
+
+  <nav aria-label="breadcrumb" class="bg-light py-2">
+      <div class="container">
+          <ol class="breadcrumb mb-0">
+              <li class="breadcrumb-item"><a href="/">Ana Sayfa</a></li>
+              <li class="breadcrumb-item"><a href="/proje">Projeler</a></li>
+              <li class="breadcrumb-item active" aria-current="page">{proje.title}</li>
+          </ol>
+      </div>
+  </nav>
+
+  <div class="container mt-5">
+      <div class="row">
+          <div class="col-lg-10 offset-lg-1">
+              <h1 class="text-center mb-4 display-4 font-weight-bold">{proje.title}</h1>
+              
+              <!-- İşlenmiş ve resimleri arasına eklenmiş HTML içeriğini burada basıyoruz -->
+              <div set:html={contentWithImages} />
+              
+              <div class="text-center">
+                 <a href="/proje" class="btn btn-secondary mt-5">Tüm Projelere Geri Dön</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</Layout>

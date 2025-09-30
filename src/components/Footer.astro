@@ -1,0 +1,141 @@
+---
+const currentYear = new Date().getFullYear();
+---
+<footer class="bg-dark text-white mt-5 py-4">
+  <!-- Footer içeriği aynı kalacak... -->
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 col-md-12 text-center text-lg-left mb-3 mb-lg-0">
+        <p class="mb-2">&copy; {currentYear} Deniz Mekanik - Tüm Hakları Saklıdır</p>
+        <div>
+          <a href="/sitemap.xml" class="text-white small">Site Haritası</a> |
+          <a href="/gizlilik-politikasi" class="text-white small">Gizlilik Politikası</a>
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-12 text-center text-lg-right">
+        <a href="https://www.facebook.com/denizmekanik" class="text-white mr-3" target="_blank" rel="noopener noreferrer" aria-label="Facebook Sayfamız"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://www.instagram.com/denizmekanik" class="text-white mr-3" target="_blank" rel="noopener noreferrer" aria-label="Instagram Profilimiz"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/deniz-mekanik-8816699a/" class="text-white mr-3" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Şirket Profilimiz"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://www.youtube.com/@DenizMekanik" class="text-white" target="_blank" rel="noopener noreferrer" aria-label="YouTube Kanalımız"><i class="fab fa-youtube"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- === GÜNCELLENMİŞ SABİT İLETİŞİM BLOĞU === -->
+<div class="fixed-contact-buttons">
+  <a href="https://wa.me/905326948116?text=Merhaba%20sipariş%20vermek%20istiyorum" class="contact-button whatsapp" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-whatsapp"></i>
+    <span>Sipariş vermek için tıklayın</span>
+  </a>
+  <a href="tel:+902165910113" class="contact-button phone">
+    <i class="fas fa-phone-alt"></i>
+    <span>Satış & Destek Hattı</span>
+  </a>
+  <a href="mailto:info@denizmekanik.com" class="contact-button email">
+    <i class="fas fa-envelope"></i>
+    <span>Satış & Destek Mail Adresi</span>
+  </a>
+</div>
+
+<!-- === GÜNCELLENMİŞ BİLEŞENE ÖZEL STİLLER === -->
+<style>
+  /* === MASAÜSTÜ STİLLERİ (768px ve üzeri) === */
+  .fixed-contact-buttons {
+    position: fixed;
+    top: 50%; 
+    transform: translateY(-50%);
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .contact-button {
+    display: flex;
+    align-items: center;
+    padding: 12px 18px;
+    background-color: #343a40;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+    gap: 10px; 
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .fixed-contact-buttons:hover .contact-button {
+    transform: translateX(0);
+  }
+
+  .contact-button i {
+    transform: translateX(calc(100% + 18px));
+    font-size: 24px;
+    min-width: 24px;
+  }
+
+  .fixed-contact-buttons:hover .contact-button i {
+    transform: translateX(0);
+  }
+  
+  .contact-button.whatsapp { background-color: #25D366; }
+  .contact-button.phone { background-color: #007bff; }
+  .contact-button.email { background-color: #6c757d; }
+  .contact-button.whatsapp:hover { background-color: #128C7E; }
+  .contact-button.phone:hover { background-color: #0056b3; }
+  .contact-button.email:hover { background-color: #5a6268; }
+
+  /* === MOBİL STİLLERİ (768px altı) === */
+  @media (max-width: 767.98px) {
+    .fixed-contact-buttons {
+      /* Konumu sol ortadan alıp alta taşıyoruz */
+      top: auto;
+      bottom: 0;
+      left: 0;
+      right: 0; /* Genişliği %100 yap */
+      transform: translateY(0); /* Dikey ortalamayı iptal et */
+
+      /* Butonları yan yana diz */
+      flex-direction: row; 
+      gap: 0; /* Aradaki boşluğu kaldır */
+    }
+
+    .contact-button {
+      /* Her butonun eşit yer kaplamasını sağla */
+      flex: 1; 
+      justify-content: center; /* İçeriği ortala */
+      padding: 12px 5px;
+      font-size: 11px; /* Yazıyı biraz küçült */
+      
+      /* Köşeleri sıfırla */
+      border-radius: 0;
+      
+      /* Animasyonu ve gizlemeyi iptal et */
+      transform: translateX(0);
+      transition: background-color 0.2s; /* Sadece renk geçişi kalsın */
+    }
+
+    /* İkon ve yazıyı alt alta diz */
+    .contact-button {
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .contact-button i {
+      /* İkon pozisyonunu sıfırla */
+      transform: translateX(0);
+      margin: 0;
+      font-size: 20px;
+    }
+
+    /* Hover etkileşimini mobil için devre dışı bırak */
+    .fixed-contact-buttons:hover .contact-button {
+      transform: translateX(0);
+    }
+  }
+</style>

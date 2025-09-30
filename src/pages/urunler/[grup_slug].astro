@@ -1,0 +1,79 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import allProductGroups from '../../data/urun-gruplari.json';
+import allProducts from '../../data/urunler.json';
+import { Fragment } from 'astro/jsx-runtime';
+
+// Bu fonksiyon, urun-gruplari.json dosyasındaki her bir grup için bir sayfa oluşturur.
+export async function getStaticPaths() {
+  return allProductGroups.map(group => ({
+    params: { grup_slug: group.slug }, // URL'yi belirler (örn: /urunler/kopru-vinc)
+    props: { group }, // Sayfaya o gruba ait veriyi gönderir
+  }));
+}
+
+// Sayfaya gönderilen 'group' verisini alıyoruz.
+const { group } = Astro.props;
+
+// Bu gruba ait ürünleri urunler.json dosyasından filtreliyoruz.
+const productsInGroup = allProducts.filter(product => product.urun_grup_id === group.id);
+
+// Meta description için HTML etiketlerinden arındırılmış temiz bir metin oluşturuyoruz.
+const plainDescription = group.seo_aciklama.replace(/<[^>]*>?/gm, '').substring(0, 160);
+---
+
+<Layout title={`${group.ad} | ${group.seo_baslik}`}>
+  
+  <Fragment slot="head">
+    <meta name="description" content={plainDescription} />
+    <meta name="keywords" content={`${group.ad}, ${group.ad.toLowerCase()} modelleri, vinç çeşitleri, Deniz Mekanik`} />
+    <link rel="canonical" href={`https://www.denizmekanik.com/urunler/${group.slug}`} />
+
+    {/* Open Graph & Twitter Card Etiketleri */}
+    <meta property="og:title" content={`${group.ad} | Deniz Mekanik`} />
+    <meta property="og:description" content={plainDescription} />
+    <meta property="og:url" content={`https://www.denizmekanik.com/urunler/${group.slug}`} />
+    <meta property="og:image" content={`https://www.denizmekanik.com${group.resim}`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={`${group.ad} | Deniz Mekanik`} />
+    <meta name="twitter:description" content={plainDescription} />
+    <meta name="twitter:image" content={`https://www.denizmekanik.com${group.resim}`} />
+  </Fragment>
+
+  <div class="container mt-5">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb bg-transparent p-0">
+        <li class="breadcrumb-item"><a href="/">Ana Sayfa</a></li>
+        <li class="breadcrumb-item"><a href="/urun-gruplari">Ürün Grupları</a></li>
+        <li class="breadcrumb-item active" aria-current="page">{group.ad}</li>
+      </ol>
+    </nav>
+
+    <div class="text-center mb-5">
+      <h1 class="display-4 font-weight-bold">{group.ad}</h1>
+      <p class="lead text-muted" set:html={group.seo_aciklama}></p>
+    </div>
+
+    <div class="row">
+      {productsInGroup.length > 0 ? (
+        productsInGroup.map(product => (
+          <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+            <div class="card h-100 shadow-sm product-card">
+              <a href={`/urun/${product.slug}`}>
+                <img src={product.resim} class="card-img-top" alt={product.ad} style="height: 200px; object-fit: cover;" />
+              </a>
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title h6">{product.ad}</h5>
+                <a href={`/urun/${product.slug}`} class="btn btn-outline-primary mt-auto">Detayları Gör</a>
+              </div>
+            </div>
+          </div>
+        ))
+      ) : (
+        <div class="col-12">
+            <div class="alert alert-warning text-center">Bu kategoride henüz ürün bulunmamaktadır.</div>
+        </div>
+      )}
+    </div>
+  </div>
+</Layout>

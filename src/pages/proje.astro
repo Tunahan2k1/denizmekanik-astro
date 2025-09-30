@@ -1,0 +1,174 @@
+---
+import Layout from "../layouts/Layout.astro";
+import allProjects from "../data/projeler.json";
+// Fragment import'una artık gerek yok.
+
+const sortedProjects = [...allProjects].reverse();
+---
+
+<Layout title="Proje ve İmalatlar | Deniz Mekanik">
+  <Fragment slot="head">
+    <meta
+      name="description"
+      content="Deniz Mekanik olarak CNC boru büküm, egzoz sistemleri, çelik yapı, enerji projeleri ve daha birçok alanda profesyonel imalat hizmetleri sunuyoruz."
+    />
+    <meta
+      name="keywords"
+      content="Deniz Mekanik, proje, imalat, CNC boru büküm, egzoz, çelik yapı, enerji projeleri, demiryolu"
+    />
+    <link rel="canonical" href="https://www.denizmekanik.com/proje" />
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Deniz Mekanik - Proje ve İmalatlar" />
+    <meta
+      property="og:description"
+      content="CNC boru büküm, egzoz sistemleri, çelik yapı ve enerji projeleri gibi birçok alanda profesyonel imalat hizmetleri."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.denizmekanik.com/proje" />
+    <meta
+      property="og:image"
+      content="https://www.denizmekanik.com/assets/images/logo/logo.png"
+    />
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Deniz Mekanik - Proje ve İmalatlar" />
+    <meta
+      name="twitter:description"
+      content="CNC boru büküm, egzoz sistemleri, çelik yapı ve enerji projeleri gibi birçok alanda profesyonel imalat hizmetleri."
+    />
+    <meta
+      name="twitter:image"
+      content="https://www.denizmekanik.com/assets/images/logo/logo.png"
+    />
+
+    <!-- Structured Data -->
+    <script type="application/ld+json" is:inline>
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Deniz Mekanik - Proje ve İmalatlar",
+        "description": "Deniz Mekanik'in tamamlanmış projeleri; CNC boru büküm, çelik yapı, enerji ve demiryolu projeleri.",
+        "url": "https://www.denizmekanik.com/proje",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Deniz Mekanik",
+          "url": "https://www.denizmekanik.com",
+          "logo": "https://www.denizmekanik.com/assets/images/logo/logo.png"
+        }
+      }
+    </script>
+  </Fragment>
+
+  <nav aria-label="breadcrumb" class="bg-light py-2">
+    <div class="container-xl">
+      <ol class="breadcrumb mb-0">
+        <li class="breadcrumb-item"><a href="/">Ana Sayfa</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Projeler</li>
+      </ol>
+    </div>
+  </nav>
+
+  <div class="container-xl mt-4">
+    <div class="text-center mb-5">
+      <h1 class="display-4 font-weight-bold">Proje ve İmalatlar</h1>
+      <p class="lead">Modern Teknoloji ile Endüstriyel Çözümler</p>
+    </div>
+
+    <div class="mb-4">
+      <div class="input-group">
+        <input
+          style="text-align: center;"
+          type="text"
+          class="form-control"
+          id="proje-filtre"
+          placeholder="Proje ara (örnek: çelik, torna)"
+        />
+        <!-- Arama butonu için ikon (Layout'tan yüklenecek) -->
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary" type="button">
+            <i class="fas fa-search"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="row justify-content-center">
+      <div class="col-12" id="proje-listesi">
+        {
+          sortedProjects.map((proje) => (
+            <div
+              class="card mb-5 proje-karti buyuk-kart"
+              data-title={proje.ad.toLowerCase()}
+              data-desc={proje.seoAciklama.toLowerCase()}
+            >
+              <div class="row g-0">
+                <div class="col-lg-5 col-md-4">
+                  <div class="proje-resim-wrapper">
+                    <img
+                      src={proje.resim}
+                      class="proje-resim"
+                      alt={proje.ad}
+                      loading="lazy"
+                    />
+                  </div>
+                </div>
+                <div class="col-lg-7 col-md-8">
+                  <div class="card-body d-flex flex-column justify-content-between h-100">
+                    <div>
+                      <h5 class="card-title">{proje.ad}</h5>
+                      <p class="card-text">{proje.seoAciklama}</p>
+                    </div>
+                    <div class="mt-auto pt-3">
+                      <div class="row">
+                        <div class="col-md-6 mb-2 mb-md-0">
+                          <a
+                            href={`/proje/${proje.slug}`}
+                            class="btn btn-dark btn-lg btn-block"
+                          >
+                            Detayları Görüntüle
+                          </a>
+                        </div>
+                        <div class="col-md-6">
+                          <a
+                            href="https://wa.me/905326948116?text=Merhaba%20projeler%20hakkında%20bilgi%20almak%20istiyorum"
+                            class="btn btn-success btn-lg btn-block"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            <i class="fab fa-whatsapp" /> İletişime Geçin
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<script is:inline>
+  // Filtreleme scripti aynı kalabilir, doğru.
+  document.addEventListener("DOMContentLoaded", () => {
+    const filtreInput = document.getElementById("proje-filtre");
+    const projeler = document.querySelectorAll(".proje-karti");
+
+    filtreInput.addEventListener("input", function () {
+      const searchTerm = this.value.trim().toLowerCase();
+      projeler.forEach((proje) => {
+        const title = proje.dataset.title || "";
+        const desc = proje.dataset.desc || "";
+        proje.style.display =
+          title.includes(searchTerm) || desc.includes(searchTerm)
+            ? "block"
+            : "none";
+      });
+    });
+  });
+</script>

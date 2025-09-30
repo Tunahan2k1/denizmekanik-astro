@@ -1,0 +1,231 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout
+  title="Hakkımızda | Deniz Mekanik - 70 Yıllık Tecrübe ile Vinç ve Makine İmalatı"
+>
+  <Fragment slot="head">
+    <meta
+      name="description"
+      content="1952'den beri Deniz Mekanik olarak vinç imalatı, fason talaşlı imalat ve torna işçiliklerinde uzmanız. Köprü vinç, portal vinç ve özel makine çözümlerimizle tanışın."
+    />
+    <meta
+      name="keywords"
+      content="Deniz Mekanik hakkında, vinç imalatı, fason talaşlı imalat, torna işçilikleri, köprü vinç, portal vinç, Tuzla makine imalatı"
+    />
+    <link rel="canonical" href="https://www.denizmekanik.com/hakkimizda" />
+
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="Hakkımızda | Deniz Mekanik - 70 Yıllık Tecrübe"
+    />
+    <meta
+      property="og:description"
+      content="1952'den beri vinç imalatı, fason talaşlı imalat ve torna işçiliklerinde uzmanız."
+    />
+    <meta property="og:url" content="https://www.denizmekanik.com/hakkimizda" />
+    <meta
+      property="og:image"
+      content="https://www.denizmekanik.com/assets/images/anasayfa/anasayfa.webp"
+    />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Hakkımızda | Deniz Mekanik - 70 Yıllık Tecrübe"
+    />
+    <meta
+      name="twitter:description"
+      content="1952'den beri vinç imalatı, fason talaşlı imalat ve torna işçiliklerinde uzmanız."
+    />
+    <meta
+      name="twitter:image"
+      content="https://www.denizmekanik.com/assets/images/anasayfa/anasayfa.webp"
+    />
+
+    <!-- Yapısal Veri (Schema.org) -->
+    <script type="application/ld+json" is:inline>
+      {
+        "@context": "https://schema.org",
+        "@type": "AboutPage",
+        "mainEntity": {
+          "@type": "Organization",
+          "name": "Deniz Mekanik",
+          "url": "https://www.denizmekanik.com",
+          "logo": "https://www.denizmekanik.com/assets/images/logo/logo.png",
+          "foundingDate": "1952",
+          "description": "Deniz Mekanik'in 1952'den bugüne uzanan köklü geçmişi, uzmanlık alanları ve vinç, makine imalatı gibi endüstriyel çözümleri hakkında detaylı bilgi."
+        }
+      }
+    </script>
+  </Fragment>
+
+  <!-- Breadcrumb -->
+  <nav aria-label="breadcrumb" class="bg-light py-2">
+    <div class="container">
+      <ol class="breadcrumb mb-0">
+        <li class="breadcrumb-item"><a href="/">Ana Sayfa</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Hakkımızda</li>
+      </ol>
+    </div>
+  </nav>
+
+  <div id="navbar-container"></div>
+
+  <div class="container mt-5">
+    <!-- Ana Başlık -->
+    <div class="text-center mb-5">
+      <h1 class="display-4 font-weight-bold">
+        Geçmişten Geleceğe Uzanan Mühendislik Mirasımız
+      </h1>
+      <p class="lead text-muted">
+        1952'den beri tecrübe, teknoloji ve güveni bir araya getirerek Türkiye
+        endüstrisine değer katıyoruz.
+      </p>
+    </div>
+
+    <!-- Giriş Bölümü -->
+    <div class="row align-items-center mb-5">
+      <div class="col-md-6">
+        <h2 class="font-weight-bold">70 Yılı Aşkın Tecrübe</h2>
+        <p>
+          <strong>1952 yılından beri</strong> ülke ekonomisine ve endüstriyel kalkınmaya
+          katkı sağlayan firmamız, yolculuğuna çimento ve çay fabrikalarının makine
+          ve ekipman üretimi ile başladı. Bu süreçte gerçekleştirdiğimiz fason ve
+          yan sanayi imalatları ile sektördeki temellerimizi sağlamlaştırdık. 2004
+          yılından itibaren <strong>Deniz Mühendislik</strong> adı altında, 1000
+          m² kapalı alanda farklı sektörlere yönelik proje ve üretim faaliyetlerimizi
+          sürdürerek tecrübemizi ve kapasitemizi artırdık.
+        </p>
+        <p>
+          Günümüzde, <a href="/makine-parkuru">modern makine parkurumuz</a> ve uzman
+          ekibimizle, sadece üretim yapmakla kalmıyor, müşterilerimiz için mühendislik
+          çözümleri geliştiriyoruz. Her bir projede, geçmişten gelen bu derin bilgi
+          birikimini en son teknolojiyle birleştiriyoruz.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <img
+          src="/assets/images/ozelproje/abkant-press3.webp"
+          class="img-fluid rounded shadow-lg"
+          alt="Deniz Mekanik abkant pres bakım ve onarım hizmetleri"
+          loading="lazy"
+        />
+      </div>
+    </div>
+
+    <!-- Uzmanlık Alanları -->
+    <div class="row align-items-center mb-5 bg-light py-5 rounded">
+      <div class="col-md-6 order-md-2">
+        <h2 class="font-weight-bold">
+          Fason Talaşlı İmalat ve Torna İşçilikleri
+        </h2>
+        <p>
+          Yapı inşaat sektöründe hafif ve ağır yapısal çelik imalatlarının yanı
+          sıra, çimento fabrikaları, taş ocakları ve madencilik tesisleri için <strong
+            >tanklar, mikserler ve kırıcı tamburlar</strong
+          > gibi özel ekipmanlar üretiyoruz. En önemlisi, fason <strong
+            >torna işçilikleri</strong
+          > ve <a href="/proje">talaşlı imalat</a> hizmetlerimizle sektörün özel
+          parça ihtiyaçlarına hassas çözümler sunuyoruz. Büyük ve karmaşık parçaların
+          işlenmesi, uzmanlık alanlarımızın başında gelmektedir.
+        </p>
+        <p>
+          Ağır iş makineleri için <strong>eksantrik mil işleme</strong> veya kablo
+          sanayii için <strong>özel tambur üretimi</strong> gibi hassasiyet gerektiren
+          projelerde, mühendislik ve üretim kabiliyetlerimizle fark yaratıyoruz.
+        </p>
+      </div>
+      <div class="col-md-6 order-md-1">
+        <img
+          src="/assets/images/fason/eksantirik-mil.webp"
+          class="img-fluid rounded shadow-lg"
+          alt="Deniz Mekanik torna atölyesinde eksantrik mil işleme"
+          loading="lazy"
+        />
+      </div>
+    </div>
+
+    <!-- Vinç İmalatı Bölümü -->
+    <div class="row align-items-center mb-5">
+      <div class="col-md-6">
+        <h2 class="font-weight-bold">Vinç İmalatında Lider Çözümler</h2>
+        <p>
+          <strong
+            >Özellikle vinç imalatı ve vinç ekipmanları alanında uzmanlaşmış bir
+            yapıya sahip olan firmamız</strong
+          >, endüstriyel tesislerin kaldırma ve taşıma ihtiyaçlarına yönelik
+          geniş bir ürün yelpazesi sunmaktadır. Her biri kendi alanında özel
+          çözümler sunan vinçlerimizle, üretimin her aşamasında güven ve
+          verimlilik sağlıyoruz.
+        </p>
+        <p>
+          Ürün portföyümüz; <a href="/urunler/kopru-vinc">Köprü Vinç</a>, <a
+            href="/urunler/portal-vinc">Portal Vinç</a
+          >, <a href="/urunler/monoray-vinc">Monoray Vinç</a>, <a
+            href="/urunler/pergel-vinc">Pergel Vinç</a
+          >, <a href="/urunler/sabit-askili-vinc">Sabit Askılı Vinç</a> ve <a
+            href="/urunler/tavan-vinci">Tavan Vinci</a
+          > gibi temel sistemlerin yanı sıra, projelere özel olarak geliştirilen
+          <a href="/urunler/cift-tamburlu-vinc">Çift Tamburlu Vinç</a> gibi özel
+          çözümleri de kapsamaktadır. Tüm vinç sistemlerimizde <strong
+            >%100 yerli üretim</strong
+          > prensibini benimseyerek, güvenli ve dayanıklı çözümler geliştiriyoruz.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <img
+          src="/assets/images/vinc/monoray-vinc.webp"
+          class="img-fluid rounded shadow-lg"
+          alt="Deniz Mekanik tarafından üretilen Monoray Vinç sistemi"
+          loading="lazy"
+        />
+      </div>
+    </div>
+
+    <!-- Bakım ve Revizyon -->
+    <div class="row align-items-center mb-5 bg-light py-5 rounded">
+      <div class="col-md-6 order-md-2">
+        <h2 class="font-weight-bold">Bakım, Onarım ve Revizyon Hizmetleri</h2>
+        <p>
+          Deniz Mekanik olarak sadece üretimle değil, aynı zamanda mevcut
+          makinelerinizin ömrünü uzatan profesyonel <a
+            href="/urunler/vinc-hizmetleri">bakım ve onarım hizmetleri</a
+          > de sunuyoruz. Ağır iş makinelerine ait <strong
+            >kepçe ve kova tamiri</strong
+          >, aşınan mil yataklarının hassas <strong>Bohrwerk</strong> işlemleriyle
+          yenilenmesi gibi zorlu revizyon projelerini başarıyla tamamlıyoruz.
+        </p>
+        <p>
+          Sektörde sürekli yeniliği benimseyen firmamız, üretim ve hizmet
+          sürecinin her aşamasında <strong>yüksek teknoloji</strong>, <strong
+            >kalite</strong
+          > ve <strong>müşteri memnuniyeti</strong> ilkelerini ön planda tutarak,
+          geleceği şekillendirmeye devam ediyor.
+        </p>
+      </div>
+      <div class="col-md-6 order-md-1">
+        <img
+          src="/assets/images/kepce-tamiri/kepce-islem.webp"
+          class="img-fluid rounded shadow-lg"
+          alt="Ağır iş makinesi kepçe kovanı tamiri ve Bohrwerk işlemi"
+          loading="lazy"
+        />
+      </div>
+    </div>
+
+    <!-- CTA Butonları -->
+    <div class="text-center mt-5 py-4">
+      <h3 class="mb-4">Bizimle Geleceği İnşa Edin</h3>
+      <a href="/proje" class="btn btn-primary btn-lg mr-2">
+        <i class="fas fa-cogs" aria-hidden="true"></i> Projelerimizi İnceleyin
+      </a>
+      <a href="/iletisim" class="btn btn-outline-primary btn-lg">
+        <i class="fas fa-phone-alt" aria-hidden="true"></i> İletişime Geçin
+      </a>
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,300 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Fragment } from "astro/jsx-runtime";
+---
+
+<Layout title="Deniz Mekanik - İletişim Bilgileri | Bize Ulaşın">
+  {/* Bu sayfaya özel <head> etiketlerini buraya ekliyoruz */}
+  <Fragment slot="head">
+    <meta
+      name="description"
+      content="Deniz Mekanik iletişim bilgileri, adres, telefon ve e-posta adreslerimiz. Tuzla, İstanbul'daki servisimize uğrayın veya online form ile bize ulaşın."
+    />
+    <meta
+      name="keywords"
+      content="Deniz Mekanik iletişim, Deniz Mekanik telefon, Deniz Mekanik adres, mekanik servis iletişim, Tuzla mekanik servis"
+    />
+    <link rel="canonical" href="https://www.denizmekanik.com/iletisim" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <style>
+      #map {
+        height: 400px;
+        border-radius: 15px;
+        z-index: 1;
+      }
+      .contact-info {
+        background-color: #f8f9fa;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        height: 100%;
+      }
+      .form-section {
+        background-color: #f8f9fa;
+        padding: 25px;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      .service-label {
+        font-weight: 600;
+        color: #0d6efd;
+        margin-top: 15px;
+        margin-bottom: 5px;
+      }
+      .form-status {
+        margin-top: 15px;
+        padding: 10px;
+        border-radius: 5px;
+        display: none;
+      }
+      .success {
+        background-color: #d4edda;
+        color: #155724;
+      }
+      .error {
+        background-color: #f8d7da;
+        color: #721c24;
+      }
+    </style>
+  </Fragment>
+
+  <div class="container mt-4">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb bg-transparent p-0">
+        <li class="breadcrumb-item"><a href="/">Ana Sayfa</a></li>
+        <li class="breadcrumb-item active" aria-current="page">İletişim</li>
+      </ol>
+    </nav>
+
+    <h1 class="text-center mb-5">Bize Ulaşın</h1>
+
+    <!-- Harita ve İletişim Bilgileri Bölümü -->
+    <div class="row mb-5 align-items-stretch">
+      <!-- SOL SÜTUN: Harita -->
+      <div class="col-lg-8 mb-4 mb-lg-0">
+        <div id="map" class="h-100"></div>
+      </div>
+      <!-- SAĞ SÜTUN: İletişim Bilgileri -->
+      <div class="col-md-4">
+        <!-- İletişim bilgilerini microdata ile işaretle -->
+        <div
+          class="contact-info"
+          itemprop="address"
+          itemscope
+          itemtype="https://schema.org/PostalAddress"
+        >
+          <h5>İletişim Bilgileri</h5>
+          <p>
+            <i class="fas fa-map-marker-alt"></i>
+            <span itemprop="streetAddress"
+              >İstanbul Deri Organize Sanayi Bölgesi, Kazlıçeşme Caddesi No: 34</span
+            ><br />
+            <span itemprop="addressLocality">Tuzla</span> –
+            <span itemprop="addressRegion">İstanbul</span> –
+            <span itemprop="addressCountry">Türkiye</span>
+          </p>
+          <!-- Makine Hizmetleri İletişim Bilgileri -->
+          <p class="service-label">makine hizmeti için:</p>
+          <p>
+            <i class="fas fa-phone"></i>
+            <a href="tel:+902165910113" itemprop="telephone"
+              >+90 216 591 01 13</a
+            >
+          </p>
+          <p>
+            <i class="fas fa-phone"></i>
+            <a href="tel:+902165910114" itemprop="telephone"
+              >+90 216 591 01 14</a
+            >
+          </p>
+          <p>
+            <i class="fas fa-fax"></i>
+            <a href="tel:+902165910115" itemprop="faxNumber"
+              >+90 216 591 01 15</a
+            >
+          </p>
+          <p>
+            <i class="fas fa-envelope"></i>
+            <a href="mailto:info@denizmekanik.com" itemprop="email"
+              >info@denizmekanik.com</a
+            >
+          </p>
+          <!-- Vinç Hizmetleri İletişim Bilgileri -->
+          <p class="service-label">vinç hizmetleri için:</p>
+          <p>
+            <i class="fas fa-phone"></i>
+            <a href="tel:+905326948116">+90 532 694 8116</a>
+          </p>
+          <p>
+            <i class="fas fa-envelope"></i>
+            <a href="mailto:selamikir@denizmekanik.com"
+              >selamikir@denizmekanik.com</a
+            >
+          </p>
+          <!-- Çalışma saatleri ekle -->
+          <p>
+            <i class="fas fa-clock"></i>
+            <strong>Çalışma Saatleri:</strong><br />
+            Pazartesi - Cuma: 08:00 - 18:00<br />
+            Cumartesi: 09:00 - 13:00
+          </p>
+          <!-- Sosyal Medya Butonları -->
+          <div class="mt-4">
+            <h6 class="font-weight-bold">Bizi Takip Edin</h6>
+            <div class="d-flex">
+              <a
+                href="https://www.facebook.com/denizmekanik"
+                target="_blank"
+                class="btn btn-sm btn-outline-primary mr-2"
+              >
+                <i class="fab fa-facebook-f"></i> Facebook
+              </a>
+              <a
+                href="https://www.instagram.com/denizmekanik"
+                target="_blank"
+                class="btn btn-sm btn-outline-danger"
+              >
+                <i class="fab fa-instagram"></i> Instagram
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Form Bölümü -->
+  <div class="row justify-content-center mt-5">
+    <div class="col-lg-10">
+      <div class="form-section">
+        <h3>Mesaj Gönderin</h3>
+        <p class="text-muted">
+          Aşağıdaki formu doldurarak bize mesaj gönderebilirsiniz. En kısa
+          sürede size dönüş yapacağız.
+        </p>
+        <form id="contactForm">
+          <div class="mb-3">
+            <input
+              type="text"
+              class="form-control"
+              id="name"
+              required
+              placeholder="Adınız Soyadınız"
+            />
+          </div>
+          <div class="mb-3">
+            <input
+              type="email"
+              class="form-control"
+              id="email"
+              required
+              placeholder="E-posta Adresiniz"
+            />
+          </div>
+          <div class="mb-3">
+            <input
+              type="text"
+              class="form-control"
+              id="subject"
+              required
+              placeholder="Konu"
+            />
+          </div>
+          <div class="mb-3">
+            <textarea
+              class="form-control"
+              id="message"
+              rows="5"
+              required
+              placeholder="Mesajınız..."></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Gönder</button>
+          <div id="formStatus" class="form-status"></div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sıkça Sorulan Sorular Bölümü -->
+  <div class="row justify-content-center mt-5">
+    <div class="col-lg-10">
+      <h3 class="mb-4">Sıkça Sorulan Sorular</h3>
+      <div class="accordion" id="faqAccordion">
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h2 class="mb-0">
+              <button
+                class="btn btn-link btn-block text-left"
+                type="button"
+                data-toggle="collapse"
+                data-target="#collapseOne"
+                aria-expanded="true"
+                aria-controls="collapseOne"
+              >
+                Hangi saatlerde hizmet veriyorsunuz?
+              </button>
+            </h2>
+          </div>
+          <div
+            id="collapseOne"
+            class="collapse show"
+            aria-labelledby="headingOne"
+            data-parent="#faqAccordion"
+          >
+            <div class="card-body">
+              Pazartesi-Cuma günleri 08:00-18:00, Cumartesi günleri 09:00-13:00
+              saatleri arasında hizmet vermekteyiz.
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h2 class="mb-0">
+              <button
+                class="btn btn-link btn-block text-left collapsed"
+                type="button"
+                data-toggle="collapse"
+                data-target="#collapseTwo"
+                aria-expanded="false"
+                aria-controls="collapseTwo"
+              >
+                Servis için randevu almak gerekiyor mu?
+              </button>
+            </h2>
+          </div>
+          <div
+            id="collapseTwo"
+            class="collapse"
+            aria-labelledby="headingTwo"
+            data-parent="#faqAccordion"
+          >
+            <div class="card-body">
+              Randevu almanız hizmet kalitemizi artırır ve bekleme sürenizi
+              azaltır. İletişim formunu kullanarak veya telefonla randevu
+              alabilirsiniz.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<!-- Sadece bu sayfada çalışacak ve paketlenmeyecek JavaScript dosyaları -->
+<script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+></script>
+<script
+  is:inline
+  type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"
+></script>
+<script is:inline>
+  (function () {
+    emailjs.init("9nnu31c4wQZgqX-xl");
+  })();
+</script>
+<script is:inline src="/assets/js/iletisim.js"></script>

@@ -1,0 +1,80 @@
+---
+// Dinamik bir veri gerekmiyor.
+---
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" itemscope itemtype="https://schema.org/SiteNavigationElement">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center" href="/" itemprop="url">
+      <img
+        src="/assets/images/logo/logo1.png"
+        style="border-radius: 25px"
+        width="40"
+        height="40"
+        class="mr-2"
+        alt="Deniz Mekanik Logo"
+        itemprop="logo"
+      />
+      <span itemprop="name">Deniz Mekanik</span>
+    </a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarNav"
+      aria-controls="navbarNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/">Anasayfa</a>
+        </li>
+        <!-- YENİ AÇILIR MENÜ -->
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            id="navbarDropdownKurumsal"
+            role="button"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          >
+            Kurumsal
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownKurumsal">
+            <a class="dropdown-item" href="/hakkimizda">Hakkımızda</a>
+            <a class="dropdown-item" href="/hizmet-verdigimiz-sektorler">Sektörler</a>
+            <a class="dropdown-item" href="/makine-parkuru">Makine Parkuru</a>
+          </div>
+        </li>
+        <!-- / YENİ AÇILIR MENÜ -->
+        <li class="nav-item">
+          <a class="nav-link" href="/proje">Proje ve İmalatlar</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/urun-gruplari">Ürünler</a>
+        </li>
+      </ul>
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="/iletisim">Bize Ulaşın</a>
+        </li>
+        <li class="nav-item">
+          <a
+            href="https://wa.me/905326948116?text=Merhaba%20bilgi%20almak%20istiyorum"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="nav-link"
+            title="WhatsApp ile iletişime geçin"
+          >
+            <i class="fab fa-whatsapp text-success" aria-hidden="true"></i>
+            <span class="sr-only">WhatsApp</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
