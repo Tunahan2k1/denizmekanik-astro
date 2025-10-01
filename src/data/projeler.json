@@ -3,105 +3,105 @@
     "id": 0,
     "ad": "Travers Hattı Pamukova | Demiryolu ve Raylı Sistem Tesisleri Projesi",
     "slug": "travers-hatti-demiryolu-ve-rayli-sistem-tesisleri-pamukova-sakarya",
-    "resim": "assets/images/ulastirma/demiryolu.webp",
+    "resim": "/assets/images/ulastirma/demiryolu.webp",
     "seoAciklama": "Demiryolu altyapısını modernize eden travers üretim hattı projemiz. Pamukova, Sakarya'daki tesisimizde, otomatik beton dökme ve kesme makineleri ile yüksek hızlı tren hatlarına uygun, dayanıklı beton traversler imal ediyoruz."
   },
   {
     "id": 1,
     "ad": "Çelik Vinç Tamburu İmalatı | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
     "slug": "celik-tambur-imalati",
-    "resim": "assets/images/celikyapi/200tontambur.webp",
+    "resim": "/assets/images/celikyapi/200tontambur.webp",
     "seoAciklama": "Ağır sanayi için 200 ton kapasiteli çelik vinç tamburları imalatı. Tershane, maden ocağı gibi zorlu ortamlarda güvenli ve kesintisiz operasyon sağlamak üzere yüksek mukavemetli çelikten, hassas mühendislikle üretilir."
   },
   {
     "id": 2,
     "ad": "Prefabrik Ev Yapımı Projesi | Ön Gerilimli Travers Hatları",
     "slug": "prefabrik-on-gerilimli-travers-hatti",
-    "resim": "assets/images/ulastirma/travers3.webp",
+    "resim": "/assets/images/ulastirma/travers3.webp",
     "seoAciklama": "Van'ın zorlu kış şartlarında dahi inşaatı hızlandıran prefabrik duvar üretim hattı. Soğuk iklime özel ısıtmalı sistemler ve ön gerilim teknolojisi ile daha hafif, daha dayanıklı ve enerji verimli beton duvarlar üretiyoruz."
   },
   {
     "id": 3,
     "ad": "Özel Tambur İçi İmalatı | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
     "slug": "ozel-tambur-ici-celik-yapi",
-    "resim": "assets/images/celikyapi/OzelTambur.webp",
+    "resim": "/assets/images/celikyapi/OzelTambur.webp",
     "seoAciklama": "Kablo üretim hatlarının verimliliği için kritik öneme sahip özel çelik tambur imalatı. Yüksek hızlarda titreşimsiz çalışma ve hassas kablo sarımı için mikron seviyesinde yüzey hassasiyeti ve dinamik balans ayarı ile üretilir."
   },
   {
     "id": 4,
     "ad": "Maden Kurutma Fırını | Çimento Fabrikaları Makine ve Ekipmanları",
     "slug": "maden-kurutma-firini",
-    "resim": "assets/images/cimentoFab/cimento1.webp",
+    "resim": "/assets/images/cimentoFab/cimento1.webp",
     "seoAciklama": "Ağır sanayi için yüksek verimli döner maden kurutma fırını imalatı. Çimento, seramik ve geri dönüşüm tesislerinde cevher, linyit gibi hammaddelerin nemini alarak proses verimliliğini artırır ve enerji tasarrufu sağlar."
   },
   {
     "id": 5,
     "ad": "Kağıt Karton Fabrikasının Tamburlarının Torna İmalatı | Fason Kesme Delme Büküm Kaynak ve Talaşlı İmalat İşleri",
     "slug": "tambur-torna-imalati",
-    "resim": "assets/images/cimentoFab/roleler.webp",
+    "resim": "/assets/images/cimentoFab/roleler.webp",
     "seoAciklama": "Kağıt ve karton fabrikaları için fason tambur torna ve yenileme hizmeti. Zamanla aşınan veya hasar gören endüstriyel tamburları, yüksek hassasiyetli talaşlı imalat ile orijinal performansına kavuşturarak üretim kayıplarını önlüyoruz."
   },
   {
     "id": 6,
     "ad": "Kırıcı Roleler | Çimento Fabrikaları Makine ve Ekipmanları",
     "slug": "tas-kirici-roleler",
-    "resim": "assets/images/cimentoFab/role2.webp",
+    "resim": "/assets/images/cimentoFab/role2.webp",
     "seoAciklama": "Çimento fabrikaları ve taş ocağı tesislerinin kırma hatları için aşınmaya dayanıklı kırıcı role (roller crusher) imalatı. Kireç taşı ve kil gibi aşındırıcı malzemeleri verimli bir şekilde kırmak ve uzun ömürlü kullanım sağlamak için özel çelik alaşımlarından üretilir."
   },
   {
     "id": 7,
     "ad": "Mixer Karıştırıcı | Çimento Fabrikaları Makine ve Ekipmanları",
     "slug": "mixer-karistirici-cimento",
-    "resim": "assets/images/cimentoFab/cimento4.webp",
+    "resim": "/assets/images/cimentoFab/cimento4.webp",
     "seoAciklama": "Çimento üretim prosesi için endüstriyel mixer karıştırıcı imalatı. Klinker, alçı ve katkı maddelerinin tam homojen karışımını sağlayarak nihai ürün kalitesini ve tutarlılığını garanti eden, aşınmaya dayanıklı ağır hizmet tipi karıştırıcılar."
   },
   {
     "id": 8,
     "ad": "Kule Vinç Bohrwerk İşleri | Fason Kesme Delme Büküm Kaynak ve Talaşlı İmalat İşleri",
     "slug": "kule-vinc-bohrwerk",
-    "resim": "assets/images/fason/borwerk2.webp",
+    "resim": "/assets/images/fason/borwerk2.webp",
     "seoAciklama": "Fason Bohrwerk talaşlı imalat hizmetlerimiz ile kule vinç ana gövdesi gibi büyük ve ağır parçaların, hassas toleranslarda işlenmesini sağlıyoruz. Bu işlem, parçaların montajda mükemmel uyumunu ve operasyonel güvenliğini garanti eder. Geniş işleme kapasitesine sahip Bohrwerk tezgahımızla, iş makineleri, enerji sektörü ve diğer ağır sanayi kollarının büyük gabarili parçalarına da çözüm sunuyoruz."
   },
   {
     "id": 9,
     "ad": "Maden Ocakları Taş Kırma Eksantrik Mil Torna İşlemi | Fason Kesme Delme Büküm Kaynak ve Talaşlı İmalat İşleri",
     "slug": "eksantrik-mil-torna",
-    "resim": "assets/images/fason/torna1.webp",
+    "resim": "/assets/images/fason/torna1.webp",
     "seoAciklama": "Maden sektörünün en kritik parçalarından olan taş kırma eksantrik milleri için fason CNC torna hizmeti sunuyoruz. Yüksek mukavemetli çeliklerden, hem sıfırdan imalat hem de aşınmış miller için tamir ve revizyon gerçekleştiriyoruz. Hassas rulman yatağı açımı ve yüzey taşlama işlemleriyle, milin kusursuz çalışmasını garanti altına alıyoruz. Eksantrik millerin yanı sıra fore kazık ekipmanları gibi diğer ağır sanayi parçalarının talaşlı imalatını da yaparak makinelerinizin uzun ömürlü ve verimli çalışmasını sağlıyoruz."
   },
   {
     "id": 10,
     "ad": "Endüstriyel Dişli Çark İmalatı | Dişli ve Özel Rediktör İmalatı",
     "slug": "endustriyel-disli-cark",
-    "resim": "assets/images/disli/disli2.webp",
+    "resim": "/assets/images/disli/disli2.webp",
     "seoAciklama": "Deniz Mekanik'in dişli ve özel rediktör imalatı, en zorlu endüstriyel şartlar için yüksek mukavemetli dişli çark çözümleri sunar. Uzmanlık alanlarımız arasında ekskavatör kule dönüş, cer dişlileri gibi ağır iş makinesi parçaları ile helis ve düz kremayer dişli sistemlerinin hassas imalatı ve tamiri bulunmaktadır."
   },
   {
     "id": 11,
     "ad": "Torna İşçilikleri Talaşlı İmalatlar Revizyon Tamirleri | Özel Makine Projelendirme ve İmalatı",
     "slug": "ozel-proje-imalat",
-    "resim": "assets/images/ozelproje/ozel1.webp",
+    "resim": "/assets/images/ozelproje/ozel1.webp",
     "seoAciklama": "Deniz Mekanik, özel proje imalatı kapsamında benzersiz endüstriyel ihtiyaçlara mühendislik çözümleri sunar. Hizmetlerimiz, hidrolik ve eksantrik pres imalatından abkant preslerin bakım ve onarımına, hidrolik silindirlerin hassas tornalama ve revizyonuna kadar geniş bir yelpazeyi kapsar. Projelendirme uzmanlığımızla makinelerinizi modernize ediyoruz."
   },
   {
     "id": 12,
     "ad": "45 Tonluk Maden Kepçesi Tamiri ve Bohrwerk Revizyonu | Fason Kesme Delme Büküm Kaynak ve Talaşlı İmalat İşleri",
     "slug": "kepce-tamir-bohrwerk",
-    "resim": "assets/images/kepce-tamiri/kepce-islem.webp",
+    "resim": "/assets/images/kepce-tamiri/kepce-islem.webp",
     "seoAciklama": "Ağır sanayi ve madencilik sektörüne özel, 45 tonluk dev kepçe kovanının komple revizyonu. Projemiz, çatlakların kaynakla tamiri, aşınmış mil ve rulman yataklarının taşınabilir Bohrwerk tezgahı ile yerinde işlenmesi ve kaldırma kollarının sıfırdan imalatı gibi kritik operasyonları kapsamaktadır."
   },
   {
     "id": 13,
     "ad": "Hidrolik Yük Platform ve Asansörü İmalat ve Tamir İşlemleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
     "slug": "hidrolik-caraskal-yuk-asansoru",
-    "resim": "assets/images/celikyapi/YukAsansoru.webp",
+    "resim": "/assets/images/celikyapi/YukAsansoru.webp",
     "seoAciklama": "Deniz Mekanik, 40 tona kadar kapasiteli hidrolik yük asansörü ve yük platformu imalatı, tamiri ve revizyonu hizmetleri sunar. Fabrika ve şantiye ihtiyaçlarına özel, anahtar teslim çelik konstrüksiyon çözümleriyle dikey taşıma sistemleri kuruyor, mevcut asansörlerinizi modernize ediyoruz."
   },
   {
     "id": 14,
     "ad": "Vinç ve Vinç Ekipmanı Üretimi Bakım ve Revizyon | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
     "slug": "vinc-imalati",
-    "resim": "assets/images/vinc/kopru-vinc.webp",
+    "resim": "/assets/images/vinc/kopru-vinc.webp",
     "seoAciklama": "Deniz Mekanik, 150 tona kadar gezer köprülü, portal, monoray ve pergel vinç imalatı sunar. Anahtar teslim vinç sistemlerinin yanı sıra, profesyonel tamir, revizyon ve periyodik bakım hizmetleriyle endüstriyel kaldırma ihtiyaçlarınıza özel, güvenilir ve uzun ömürlü mühendislik çözümleri sağlıyoruz."
   }
 ]
