@@ -103,5 +103,33 @@
     "slug": "vinc-imalati",
     "resim": "/assets/images/vinc/kopru-vinc.webp",
     "seoAciklama": "Deniz Mekanik, 150 tona kadar gezer köprülü, portal, monoray ve pergel vinç imalatı sunar. Anahtar teslim vinç sistemlerinin yanı sıra, profesyonel tamir, revizyon ve periyodik bakım hizmetleriyle endüstriyel kaldırma ihtiyaçlarınıza özel, güvenilir ve uzun ömürlü mühendislik çözümleri sağlıyoruz."
+  },
+  {
+    "id":15,
+    "ad":"Köprü Vinç Bakım & Onarım & Revizyon | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug":"kopru-vinc-revizyon",
+    "resim":"assets/images/kopruvincrevizyon/kopruvincrevizyonu.webp",
+    "seoAciklama":"Deniz Mekanik, Hava Meydan Komutanlığı'nın 10 tonluk köprü vincini İstanbul Tuzla'da modernize etti. Eski, güvensiz ve açık baralı sistemi; modern, İSG uyumlu ve verimli bir yapıya dönüştürdük. Kapsamlı vinç revizyonu, onarımı ve bakımı konusundaki uzmanlığımızı bu projede görün."
+  },
+  {
+    "id":16,
+    "ad": "Yerinde Vinç Bakım Servisi | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug":"yerinde-vinc-bakim-servisi",
+    "resim":"assets/images/kopruvincmontaj/kopruvinconarim.webp",
+    "seoAciklama":"Deniz Mekanik, yerinde vinç bakım ve onarım servisi sunar. İstanbul (Tuzla, Pendik, İMES) ve Türkiye geneli (Ankara, Bursa, Kocaeli) hizmet ağımızla elektrik arızası, motor-fren tamiri ve İSG kontrolleri gibi konularda üretiminizi güvence altına alıyoruz. Profesyonel çözümler için bize ulaşın."
+  },
+  {
+    "id":17,
+    "ad":"Fabrika Bacası Flanş Torna ve Derin Delik Delme | Fason Kesme Delme Büküm Kaynak ve Talaşlı İmalat İşleri",
+    "slug":"fabrika-bacasi-torna",
+    "resim":"/assets/images/fabrikabacasi/fabrikabacasikaynak.webp",
+    "seoAciklama":"Deniz Mekanik, İstanbul Tuzla'da fason talaşlı imalat hizmeti sunar. Fabrika bacası flanşları gibi büyük parçaların üretiminde uzmanız. 4000 mm çapa kadar CNC torna, hassas derin delik delme ve Bohrwerk işlemlerimizle ağır sanayi projelerinize mühendislik çözümleri sağlıyoruz."
+  },
+  {
+    "id":18,
+    "ad":"Hidrolik Lift Piston Onarımı ve Piston İmalatı | Özel Asansör & Yük Kaldırma ve Ekipmanları Projelendirme ve İmalatı",
+    "slug":"hidrolik-lift-piston-onarim",
+    "resim":"assets/images/yuklift/hidrolikyukasansoru.webp",
+    "seoAciklama":"Deniz Mekanik, hidrolik lift piston onarımı ve özel imalatı konusunda İstanbul Tuzla'da uzman çözümler sunar. Yük lifti ve asansörleriniz için profesyonel keçe değişimi, piston mili taşlama, kasnak onarımı ve sızdırmazlık testleri yapıyoruz. Sistemlerinizi ilk günkü performansına ve güvenliğine kavuşturarak üretim kayıplarınızı önlüyoruz."
   }
 ]
