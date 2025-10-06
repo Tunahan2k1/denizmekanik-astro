@@ -105,262 +105,332 @@
     "seoAciklama": "Deniz Mekanik, 150 tona kadar gezer köprülü, portal, monoray ve pergel vinç imalatı sunar. Anahtar teslim vinç sistemlerinin yanı sıra, profesyonel tamir, revizyon ve periyodik bakım hizmetleriyle endüstriyel kaldırma ihtiyaçlarınıza özel, güvenilir ve uzun ömürlü mühendislik çözümleri sağlıyoruz."
   },
   {
-    "id":15,
-    "ad":"Köprü Vinç Bakım & Onarım & Revizyon | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"kopru-vinc-revizyon",
-    "resim":"/assets/images/kopruvincrevizyon/kopruvincrevizyonu.webp",
-    "seoAciklama":"Deniz Mekanik, Hava Meydan Komutanlığı'nın 10 tonluk köprü vincini İstanbul Tuzla'da modernize etti. Eski, güvensiz ve açık baralı sistemi; modern, İSG uyumlu ve verimli bir yapıya dönüştürdük. Kapsamlı vinç revizyonu, onarımı ve bakımı konusundaki uzmanlığımızı bu projede görün."
+    "id": 15,
+    "ad": "Köprü Vinç Bakım & Onarım & Revizyon | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "kopru-vinc-revizyon",
+    "resim": "/assets/images/kopruvincrevizyon/kopruvincrevizyonu.webp",
+    "seoAciklama": "Deniz Mekanik, Hava Meydan Komutanlığı'nın 10 tonluk köprü vincini İstanbul Tuzla'da modernize etti. Eski, güvensiz ve açık baralı sistemi; modern, İSG uyumlu ve verimli bir yapıya dönüştürdük. Kapsamlı vinç revizyonu, onarımı ve bakımı konusundaki uzmanlığımızı bu projede görün."
   },
   {
-    "id":16,
+    "id": 16,
     "ad": "Yerinde Vinç Bakım Servisi | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"yerinde-vinc-bakim-servisi",
-    "resim":"/assets/images/kopruvincmontaj/kopruvinconarim.webp",
-    "seoAciklama":"Deniz Mekanik, yerinde vinç bakım ve onarım servisi sunar. İstanbul (Tuzla, Pendik, İMES) ve Türkiye geneli (Ankara, Bursa, Kocaeli) hizmet ağımızla elektrik arızası, motor-fren tamiri ve İSG kontrolleri gibi konularda üretiminizi güvence altına alıyoruz. Profesyonel çözümler için bize ulaşın."
+    "slug": "yerinde-vinc-bakim-servisi",
+    "resim": "/assets/images/kopruvincmontaj/kopruvinconarim.webp",
+    "seoAciklama": "Deniz Mekanik, yerinde vinç bakım ve onarım servisi sunar. İstanbul (Tuzla, Pendik, İMES) ve Türkiye geneli (Ankara, Bursa, Kocaeli) hizmet ağımızla elektrik arızası, motor-fren tamiri ve İSG kontrolleri gibi konularda üretiminizi güvence altına alıyoruz. Profesyonel çözümler için bize ulaşın."
   },
   {
-    "id":17,
-    "ad":"Fabrika Bacası Flanş Torna ve Derin Delik Delme | Fason Kesme Delme Büküm Kaynak ve Talaşlı İmalat İşleri",
-    "slug":"fabrika-bacasi-torna",
-    "resim":"/assets/images/fabrikabacasi/fabrikabacasikaynak.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Tuzla'da fason talaşlı imalat hizmeti sunar. Fabrika bacası flanşları gibi büyük parçaların üretiminde uzmanız. 4000 mm çapa kadar CNC torna, hassas derin delik delme ve Bohrwerk işlemlerimizle ağır sanayi projelerinize mühendislik çözümleri sağlıyoruz."
+    "id": 17,
+    "ad": "Fabrika Bacası Flanş Torna ve Derin Delik Delme | Fason Kesme Delme Büküm Kaynak ve Talaşlı İmalat İşleri",
+    "slug": "fabrika-bacasi-torna",
+    "resim": "/assets/images/fabrikabacasi/fabrikabacasikaynak.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Tuzla'da fason talaşlı imalat hizmeti sunar. Fabrika bacası flanşları gibi büyük parçaların üretiminde uzmanız. 4000 mm çapa kadar CNC torna, hassas derin delik delme ve Bohrwerk işlemlerimizle ağır sanayi projelerinize mühendislik çözümleri sağlıyoruz."
   },
   {
-    "id":18,
-    "ad":"Hidrolik Lift Piston Onarımı ve Piston İmalatı | Özel Asansör & Yük Kaldırma ve Ekipmanları Projelendirme ve İmalatı",
-    "slug":"hidrolik-lift-piston-onarim",
-    "resim":"/assets/images/yuklift/hidrolikyukasansoru.webp",
-    "seoAciklama":"Deniz Mekanik, hidrolik lift piston onarımı ve özel imalatı konusunda İstanbul Tuzla'da uzman çözümler sunar. Yük lifti ve asansörleriniz için profesyonel keçe değişimi, piston mili taşlama, kasnak onarımı ve sızdırmazlık testleri yapıyoruz. Sistemlerinizi ilk günkü performansına ve güvenliğine kavuşturarak üretim kayıplarınızı önlüyoruz."
+    "id": 18,
+    "ad": "Hidrolik Lift Piston Onarımı ve Piston İmalatı | Özel Asansör & Yük Kaldırma ve Ekipmanları Projelendirme ve İmalatı",
+    "slug": "hidrolik-lift-piston-onarim",
+    "resim": "/assets/images/yuklift/hidrolikyukasansoru.webp",
+    "seoAciklama": "Deniz Mekanik, hidrolik lift piston onarımı ve özel imalatı konusunda İstanbul Tuzla'da uzman çözümler sunar. Yük lifti ve asansörleriniz için profesyonel keçe değişimi, piston mili taşlama, kasnak onarımı ve sızdırmazlık testleri yapıyoruz. Sistemlerinizi ilk günkü performansına ve güvenliğine kavuşturarak üretim kayıplarınızı önlüyoruz."
   },
   {
-    "id":19,
-    "ad":"Tuzla | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"tuzla-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Tuzla'da uzman vinç servisi sunar. Gezer köprü, portal ve gemi güverte vinçleri için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sanayinin kalbinde, üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 19,
+    "ad": "Tuzla | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "tuzla-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Tuzla'da uzman vinç servisi sunar. Gezer köprü, portal ve gemi güverte vinçleri için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sanayinin kalbinde, üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":20,
-    "ad":"Pendik | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"pendik-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Pendik'te yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım, onarım ve revizyon hizmetleri sağlıyoruz. Üretiminizin kesintiye uğramaması ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerimizle Pendik sanayisinin yanındayız."
+    "id": 20,
+    "ad": "Pendik | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "pendik-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Pendik'te yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım, onarım ve revizyon hizmetleri sağlıyoruz. Üretiminizin kesintiye uğramaması ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerimizle Pendik sanayisinin yanındayız."
   },
   {
-    "id":21,
-    "ad":"Kartal | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"kartal-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Kartal'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım, onarım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Kartal sanayisinin yanındayız."
+    "id": 21,
+    "ad": "Kartal | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "kartal-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Kartal'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım, onarım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Kartal sanayisinin yanındayız."
   },
   {
-    "id":22,
-    "ad":"Kurtköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"kurtkoy-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Kurtköy ve Sabiha Gökçen çevresinde yerel vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Lojistik ve sanayinin kalbinde, üretiminizi güvence altına alan hızlı ve güvenilir çözümlerle yanınızdayız."
+    "id": 22,
+    "ad": "Kurtköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "kurtkoy-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Kurtköy ve Sabiha Gökçen çevresinde yerel vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Lojistik ve sanayinin kalbinde, üretiminizi güvence altına alan hızlı ve güvenilir çözümlerle yanınızdayız."
   },
   {
-    "id":23,
-    "ad":"Arnavutköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"arnavutkoy-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Arnavutköy'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Lojistik ve sanayinin kalbinde, üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 23,
+    "ad": "Arnavutköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "arnavutkoy-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Arnavutköy'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Lojistik ve sanayinin kalbinde, üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":24,
-    "ad":"Ataşehir | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"atasehir-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Ataşehir'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım, onarım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Ataşehir sanayisinin yanındayız."
+    "id": 24,
+    "ad": "Ataşehir | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "atasehir-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Ataşehir'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım, onarım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Ataşehir sanayisinin yanındayız."
   },
   {
-    "id":25,
-    "ad":"Avcılar | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"avcilar-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Avcılar'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım, onarım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Avcılar sanayisinin yanındayız."
+    "id": 25,
+    "ad": "Avcılar | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "avcilar-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Avcılar'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım, onarım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Avcılar sanayisinin yanındayız."
   },
   {
-    "id":26,
-    "ad":"Bağcılar | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"bagcilar-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Bağcılar'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. İSTOÇ ve Mahmutbey'deki işletmelerin üretkenliğini ve iş güvenliğini, hızlı ve İSG uyumlu çözümlerimizle güvence altına alıyoruz."
+    "id": 26,
+    "ad": "Bağcılar | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "bagcilar-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Bağcılar'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. İSTOÇ ve Mahmutbey'deki işletmelerin üretkenliğini ve iş güvenliğini, hızlı ve İSG uyumlu çözümlerimizle güvence altına alıyoruz."
   },
   {
-    "id":27,
-    "ad":"Bahçelievler | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"bahcelievler-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Bahçelievler'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Bahçelievler sanayisinin yanındayız."
+    "id": 27,
+    "ad": "Bahçelievler | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "bahcelievler-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Bahçelievler'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Bahçelievler sanayisinin yanındayız."
   },
   {
-    "id":28,
-    "ad":"Bakırköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"bakirkoy-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Bakırköy'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve özellikle Ataköy Marina için tekne caraskalları gibi vinçlerinizin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. İş güvenliğiniz ve operasyonel devamlılığınız için hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 28,
+    "ad": "Bakırköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "bakirkoy-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Bakırköy'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve özellikle Ataköy Marina için tekne caraskalları gibi vinçlerinizin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. İş güvenliğiniz ve operasyonel devamlılığınız için hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":29,
-    "ad":"Başakşehir | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"basaksehir-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Başakşehir ve İkitelli OSB'de profesyonel vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 29,
+    "ad": "Başakşehir | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "basaksehir-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Başakşehir ve İkitelli OSB'de profesyonel vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":30,
-    "ad":"Bayrampaşa | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"bayrampasa-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Bayrampaşa'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Bayrampaşa sanayisinin yanındayız."
+    "id": 30,
+    "ad": "Bayrampaşa | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "bayrampasa-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Bayrampaşa'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Bayrampaşa sanayisinin yanındayız."
   },
   {
-    "id":31,
-    "ad":"Beylikdüzü | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"beylikduzu-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Beylikdüzü'nde yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. BEYSAD ve Mermerciler OSB'deki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 31,
+    "ad": "Beylikdüzü | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "beylikduzu-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Beylikdüzü'nde yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. BEYSAD ve Mermerciler OSB'deki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":32,
-    "ad":"Beyoğlu | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"beyoglu-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Beyoğlu'nda uzman vinç servisi sunar. Gezer köprü, monoray ve özellikle Karaköy atölyeleri için caraskal vinçlerinizin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. İş güvenliğiniz ve operasyonel devamlılığınız için hızlı, güvenilir ve İSG uyumlu çözümlerle Beyoğlu'nun kalbindeyiz."
+    "id": 32,
+    "ad": "Beyoğlu | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "beyoglu-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Beyoğlu'nda uzman vinç servisi sunar. Gezer köprü, monoray ve özellikle Karaköy atölyeleri için caraskal vinçlerinizin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. İş güvenliğiniz ve operasyonel devamlılığınız için hızlı, güvenilir ve İSG uyumlu çözümlerle Beyoğlu'nun kalbindeyiz."
   },
   {
-    "id":33,
-    "ad":"Çatalca | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"catalca-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Çatalca'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Çatalca sanayisinin yanınızdayız."
+    "id": 33,
+    "ad": "Çatalca | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "catalca-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Çatalca'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Çatalca sanayisinin yanınızdayız."
   },
   {
-    "id":34,
-    "ad":"Çekmeköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"cekmekoy-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Çekmeköy'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Alemdağ ve Taşdelen'deki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 34,
+    "ad": "Çekmeköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "cekmekoy-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Çekmeköy'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Alemdağ ve Taşdelen'deki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":35,
-    "ad":"Esenler | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"esenler-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Esenler'de uzman vinç servisi sunar. Gezer köprü ve monoray vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Tekstilkent ve Giyimkent'teki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerimizle yanınızdayız."
+    "id": 35,
+    "ad": "Esenler | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "esenler-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Esenler'de uzman vinç servisi sunar. Gezer köprü ve monoray vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Tekstilkent ve Giyimkent'teki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerimizle yanınızdayız."
   },
   {
-    "id":36,
-    "ad":"Esenyurt | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"esenyurt-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Esenyurt'ta yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Hadımköy ve Kıraç'a komşu sanayi bölgelerindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 36,
+    "ad": "Esenyurt | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "esenyurt-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Esenyurt'ta yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Hadımköy ve Kıraç'a komşu sanayi bölgelerindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":37,
-    "ad":"Eyüp | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"eyup-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Eyüp'te uzman vinç servisi sunar. Gezer köprü, monoray ve Haliç'e özel gemi vinçlerinizin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Eyüp'ün kalbindeyiz."
+    "id": 37,
+    "ad": "Eyüp | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "eyup-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Eyüp'te uzman vinç servisi sunar. Gezer köprü, monoray ve Haliç'e özel gemi vinçlerinizin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Eyüp'ün kalbindeyiz."
   },
   {
-    "id":38,
-    "ad":"Gaziosmanpaşa | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"gaziosmanpasa-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Gaziosmanpaşa'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Gaziosmanpaşa sanayisinin yanındayız."
+    "id": 38,
+    "ad": "Gaziosmanpaşa | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "gaziosmanpasa-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Gaziosmanpaşa'da yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Gaziosmanpaşa sanayisinin yanındayız."
   },
   {
-    "id":39,
-    "ad":"Güngören | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"gungoren-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Güngören'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Merter ve çevresindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 39,
+    "ad": "Güngören | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "gungoren-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Güngören'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Merter ve çevresindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":40,
-    "ad":"Kadıköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"kadikoy-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Kadıköy'de uzman vinç servisi sunar. Özellikle Kalamış ve Fenerbahçe Marinaları için tekne caraskalları, gezer köprü ve monoray vinçlerinizin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. İş güvenliğiniz ve operasyonlarınızın devamlılığı için hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 40,
+    "ad": "Kadıköy | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "kadikoy-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Kadıköy'de uzman vinç servisi sunar. Özellikle Kalamış ve Fenerbahçe Marinaları için tekne caraskalları, gezer köprü ve monoray vinçlerinizin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. İş güvenliğiniz ve operasyonlarınızın devamlılığı için hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":41,
-    "ad":"Maltepe | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"maltepe-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Maltepe'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve tekne caraskalları için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sanayi siteleri ve sahil şeridindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 41,
+    "ad": "Maltepe | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "maltepe-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Maltepe'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve tekne caraskalları için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sanayi siteleri ve sahil şeridindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":42,
-    "ad":"Sancaktepe | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"sancaktepe-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Sancaktepe'de uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sarıgazi ve Samandıra'daki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 42,
+    "ad": "Sancaktepe | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "sancaktepe-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Sancaktepe'de uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sarıgazi ve Samandıra'daki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":43,
-    "ad":"Sultanbeyli | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"sultanbeyli-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Sultanbeyli'de uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sanayi ve lojistik merkezlerindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 43,
+    "ad": "Sultanbeyli | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "sultanbeyli-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Sultanbeyli'de uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sanayi ve lojistik merkezlerindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":44,
-    "ad":"Sultangazi | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"sultangazi-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Sultangazi'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Sultangazi sanayisinin yanındayız."
+    "id": 44,
+    "ad": "Sultangazi | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "sultangazi-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Sultangazi'de yerel ve uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Üretiminizin devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle Sultangazi sanayisinin yanındayız."
   },
   {
-    "id":45,
-    "ad":"Şile | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"sile-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Şile'de uzman vinç servisi sunar. Maden ocakları, limanlar ve sanayi tesisleri için portal vinç, gezer köprü ve tekne caraskalları gibi ekipmanların acil tamir, periyodik bakım ve revizyonunu yapıyoruz. Güvenilir ve İSG uyumlu çözümlerle üretiminizi güvence altına alıyoruz."
+    "id": 45,
+    "ad": "Şile | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "sile-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Şile'de uzman vinç servisi sunar. Maden ocakları, limanlar ve sanayi tesisleri için portal vinç, gezer köprü ve tekne caraskalları gibi ekipmanların acil tamir, periyodik bakım ve revizyonunu yapıyoruz. Güvenilir ve İSG uyumlu çözümlerle üretiminizi güvence altına alıyoruz."
   },
   {
-    "id":46,
-    "ad":"Şişli | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"sisli-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Şişli'de uzman vinç servisi sunar. Mecidiyeköy, Levent ve Maslak'taki iş merkezleri, AVM'ler ve şantiyeler için gezer köprü ve monoray vinçlerin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. Güvenilir ve İSG uyumlu çözümlerle operasyonlarınızın devamlılığını sağlıyoruz."
+    "id": 46,
+    "ad": "Şişli | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "sisli-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Şişli'de uzman vinç servisi sunar. Mecidiyeköy, Levent ve Maslak'taki iş merkezleri, AVM'ler ve şantiyeler için gezer köprü ve monoray vinçlerin acil tamir, periyodik bakım ve revizyonunu yapıyoruz. Güvenilir ve İSG uyumlu çözümlerle operasyonlarınızın devamlılığını sağlıyoruz."
   },
   {
-    "id":47,
-    "ad":"Ümraniye | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"umraniye-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Ümraniye'de yerel ve uzman vinç servisi sunar. Özellikle İMES ve Dudullu OSB için gezer köprü, monoray ve portal vinçlerin acil tamiri, periyodik bakımı ve revizyonunu yapıyoruz. Üretiminizin devamlılığını ve iş güvenliğinizi, hızlı, güvenilir ve İSG uyumlu çözümlerimizle güvence altına alıyoruz."
+    "id": 47,
+    "ad": "Ümraniye | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "umraniye-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Ümraniye'de yerel ve uzman vinç servisi sunar. Özellikle İMES ve Dudullu OSB için gezer köprü, monoray ve portal vinçlerin acil tamiri, periyodik bakımı ve revizyonunu yapıyoruz. Üretiminizin devamlılığını ve iş güvenliğinizi, hızlı, güvenilir ve İSG uyumlu çözümlerimizle güvence altına alıyoruz."
   },
   {
-    "id":48,
-    "ad":"Üsküdar | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"uskudar-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Üsküdar'da uzman vinç servisi sunar. Gezer köprü, monoray ve özellikle marinalar için tekne caraskallarının acil tamir, periyodik bakım ve revizyonunu yapıyoruz. Operasyonlarınızın devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 48,
+    "ad": "Üsküdar | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "uskudar-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Üsküdar'da uzman vinç servisi sunar. Gezer köprü, monoray ve özellikle marinalar için tekne caraskallarının acil tamir, periyodik bakım ve revizyonunu yapıyoruz. Operasyonlarınızın devamlılığı ve iş güvenliğiniz için hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":49,
-    "ad":"Zeytinburnu | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"zeytinburnu-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Zeytinburnu'nda yerel ve uzman vinç servisi sunar. Tekstil ve deri sanayi siteleri için gezer köprü ve monoray vinçlerinizin acil tamiri, periyodik bakımı ve revizyonunu yapıyoruz. Üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 49,
+    "ad": "Zeytinburnu | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "zeytinburnu-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Zeytinburnu'nda yerel ve uzman vinç servisi sunar. Tekstil ve deri sanayi siteleri için gezer köprü ve monoray vinçlerinizin acil tamiri, periyodik bakımı ve revizyonunu yapıyoruz. Üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":50,
-    "ad":"Samandıra | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"samandira-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvincmontaj.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul Samandıra'da uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sancaktepe'ye bağlı sanayi bölgelerindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
+    "id": 50,
+    "ad": "Samandıra | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "samandira-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvincmontaj.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul Samandıra'da uzman vinç servisi sunar. Gezer köprü, monoray ve portal vinçleriniz için acil tamir, periyodik bakım ve revizyon hizmeti sağlıyoruz. Sancaktepe'ye bağlı sanayi bölgelerindeki üretiminizi güvence altına alan hızlı, güvenilir ve İSG uyumlu çözümlerle yanınızdayız."
   },
   {
-    "id":51,
-    "ad":"İstanbul | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
-    "slug":"istanbul-vinc-tamiri",
-    "resim":"/assets/images/istanbulvinc/kopruvinc4.webp",
-    "seoAciklama":"Deniz Mekanik, İstanbul'un 39 ilçesinde profesyonel vinç tamiri, bakımı ve onarımı hizmeti sunar. Gezer köprü, monoray ve portal vinçler için acil servis, periyodik bakım ve İSG çözümleriyle İstanbul sanayisinin hizmetindeyiz. Hızlı ve güvenilir destek için bize ulaşın."
+    "id": 51,
+    "ad": "İstanbul | Vinç Tamiri & Bakım & Onarım & Revizyon Hizmetleri | Çelik Yapı ve Konstrüksiyon Makine İmalatı",
+    "slug": "istanbul-vinc-tamiri",
+    "resim": "/assets/images/istanbulvinc/kopruvinc4.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul'un 39 ilçesinde profesyonel vinç tamiri, bakımı ve onarımı hizmeti sunar. Gezer köprü, monoray ve portal vinçler için acil servis, periyodik bakım ve İSG çözümleriyle İstanbul sanayisinin hizmetindeyiz. Hızlı ve güvenilir destek için bize ulaşın."
+  },
+  {
+    "id": 52,
+    "ad": "Kocaeli Torna & Bohrwerk: Talaşlı İmalat, CNC ve Fason İşleri",
+    "slug": "kocaeli-torna-bohrwerk-talasli-imalat",
+    "resim": "/assets/images/makineler/borwerk.webp",
+    "seoAciklama": "Deniz Mekanik, Kocaeli sanayisine yönelik profesyonel torna, bohrwerk (borverk), CNC ve fason talaşlı imalat hizmetleri sunmaktadır. Ağır ve büyük sanayi parçaları, makine şaseleri, merdane ve tambur gibi yüksek hacimli malzemelerin işlenmesi, revizyonu ve imalatında uzman çözümlerimizle endüstrinin hizmetindeyiz."
+  },
+  {
+    "id": 53,
+    "ad": "İstanbul Torna & Bohrwerk: Fason Talaşlı İmalat ve CNC İşleri",
+    "slug": "istanbul-torna-bohrwerk-talasli-imalat",
+    "resim": "/assets/images/makineler/torna.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul genelinde profesyonel torna, bohrwerk (borverk), CNC ve fason talaşlı imalat hizmetleri sunar. Ağır sanayi, büyük ve hassas parçaların işlenmesi, makine şase imalatı ve revizyonu gibi konularda uzman çözümlerimizle İstanbul sanayisinin hizmetindeyiz."
+  },
+  {
+    "id": 54,
+    "ad": "Tuzla Torna & Bohrwerk | Fason Talaşlı İmalat ve Ağır Sanayi Çözümleri",
+    "slug": "tuzla-torna-bohrwerk-talasli-imalat",
+    "resim": "/assets/images/makineler/borwerk.webp",
+    "seoAciklama": "Deniz Mekanik, Tuzla sanayisinin kalbinde, özellikle tersaneler ve OSB'ler için profesyonel torna, bohrwerk, CNC ve fason talaşlı imalat hizmetleri sunar. Ağır, büyük ve hassas parçaların işlenmesi, gemi parçaları revizyonu ve imalatı gibi konularda, ağır sanayinin merkezinde uzman çözümler sağlıyoruz."
+  },
+  {
+    "id": 55,
+    "ad": "Yalova Torna & Bohrwerk | Fason Talaşlı İmalat ve Ağır Sanayi Çözümleri",
+    "slug": "yalova-torna-bohrwerk-talasli-imalat",
+    "resim": "/assets/images/makineler/borwerk2.webp",
+    "seoAciklama": "Deniz Mekanik, Yalova'nın tersane ve sanayi bölgelerine stratejik yakınlığıyla profesyonel torna, bohrwerk, CNC ve fason talaşlı imalat hizmetleri sunar. Ağır ve büyük sanayi parçalarının işlenmesi, revizyonu ve imalatı gibi konularda, lojistik avantajımızla Yalova endüstrisinin hizmetindeyiz."
+  },
+  {
+    "id": 56,
+    "ad": "Torna & Bohrwerk: Ağır Sanayi İçin Fason Talaşlı İmalat ",
+    "slug": "torna-bohrwerk-talasli-imalat-genel",
+    "resim": "/assets/images/makineler/torna.webp",
+    "seoAciklama": "Deniz Mekanik, Türkiye geneli ağır sanayi için profesyonel torna, bohrwerk (borverk), CNC ve fason talaşlı imalat hizmetleri sunar. Büyük çap tornalama, makine şase işleme, endüstriyel parça revizyonu ve imalatı gibi konularda, yüksek kapasiteli makine parkurumuzla endüstrinin hizmetindeyiz."
+  },
+  {
+    "id": 57,
+    "ad": "Kocaeli Dişli İmalatı ve Hassas Taşlama Hizmetleri",
+    "slug": "kocaeli-disli-imalati-taslama",
+    "resim": "/assets/images/disli/disAcma.webp",
+    "seoAciklama": "Deniz Mekanik, Kocaeli sanayisine özel dişli imalatı ve hassas taşlama hizmetleri sunar. Helis, konik, ayna mahruti gibi özel dişlilerin üretimi ile silindirik mil ve düzlem yüzey taşlama konularında, Kocaeli endüstrisine yönelik profesyonel ve uzman çözümler sağlıyoruz."
+  },
+  {
+    "id": 58,
+    "ad": "İstanbul Dişli İmalatı ve Hassas Taşlama Hizmetleri",
+    "slug": "istanbul-disli-imalati-taslama",
+    "resim": "/assets/images/disli/disAcma.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul sanayisine özel dişli imalatı ve hassas taşlama hizmetleri sunar. Helis, konik, ayna mahruti gibi özel dişlilerin üretimi ile silindirik mil ve düzlem yüzey taşlama konularında, İstanbul endüstrisine yönelik profesyonel ve uzman çözümler sağlıyoruz."
+  },
+  {
+    "id": 59,
+    "ad": "Tuzla Dişli İmalatı ve Hassas Taşlama | Gemi ve Ağır Sanayi Çözümleri",
+    "slug": "tuzla-disli-imalati-taslama",
+    "resim": "/assets/images/disli/disAcma.webp",
+    "seoAciklama": "Deniz Mekanik, Tuzla'da, özellikle tersaneler ve OSB'ler için özel dişli imalatı ve hassas taşlama hizmetleri sunar. Gemi redüktör dişlileri, ayna mahruti ve mil taşlama gibi kritik konularda, ağır sanayinin merkezinde uzman çözümler sağlıyoruz."
+  },
+  {
+    "id": 60,
+    "ad": "Yalova Dişli İmalatı ve Hassas Taşlama | Tersane ve Sanayi Çözümleri",
+    "slug": "yalova-disli-imalati-taslama",
+    "resim": "/assets/images/disli/disAcma.webp",
+    "seoAciklama": "Deniz Mekanik, Yalova'nın tersane ve sanayi bölgelerine özel dişli imalatı ve hassas taşlama hizmeti sunar. Gemi dişlileri, helis, konik dişli üretimi ve mil taşlama konularında, stratejik lojistik avantajıyla Yalova endüstrisinin hizmetindeyiz."
+  },
+  {
+    "id": 61,
+    "ad": "Özel Dişli İmalatı ve Hassas Taşlama Hizmetleri | Dişli ve Özel Rediktör İmalatı",
+    "slug": "disli-imalati-hassas-taslama-genel",
+    "resim": "/assets/images/disli/disAcma2.webp",
+    "seoAciklama": "Deniz Mekanik, Türkiye geneli endüstriyel dişli imalatı ve hassas taşlama hizmetleri sunar. Helis, konik, ayna mahruti dişli üretimi, silindirik ve yüzey taşlama gibi konularda, tüm sanayi sektörlerine yönelik profesyonel ve uzman çözümler sağlıyoruz."
   }
 ]
