@@ -432,5 +432,292 @@
     "slug": "disli-imalati-hassas-taslama-genel",
     "resim": "/assets/images/disli/disAcma2.webp",
     "seoAciklama": "Deniz Mekanik, Türkiye geneli endüstriyel dişli imalatı ve hassas taşlama hizmetleri sunar. Helis, konik, ayna mahruti dişli üretimi, silindirik ve yüzey taşlama gibi konularda, tüm sanayi sektörlerine yönelik profesyonel ve uzman çözümler sağlıyoruz."
+  },
+  {
+    "id": 62,
+    "ad": "Tuzla Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "tuzla-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Tuzla'da işletmenize özel hidrolik yük platformu ve hidrolik lift imalatı, satışı ve montajı hizmeti sunar. 1 tondan 10 tona kadar kapasite ve her kata uygun, güvenli ve dayanıklı dikey taşıma çözümleriyle Tuzla sanayisinin hizmetindeyiz."
+  },
+  {
+    "id": 63,
+    "ad": "Pendik Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "pendik-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Pendik'teki işletmelere özel hidrolik yük platformu ve hidrolik lift imalatı, satışı ve montajı hizmeti sunar. 1 tondan 10 tona kadar, her kata uygun güvenli çözümlerimizle hizmetinizdeyiz."
+  },
+  {
+    "id": 64,
+    "ad": "Kartal Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "kartal-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Kartal'daki işletmelere özel hidrolik yük platformu ve hidrolik lift imalatı, satışı ve montajı hizmeti sunar. Her kata ve kapasiteye uygun, güvenli dikey taşıma çözümleriyle Kartal sanayisinin hizmetindeyiz."
+  },
+  {
+    "id": 65,
+    "ad": "Pendik Kurtköy Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "kurtkoy-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Kurtköy'ün lojistik ve sanayi bölgelerine özel hidrolik yük platformu ve hidrolik lift imalatı, satışı ve montajı hizmeti sunar. Her kapasite ve kata uygun, güvenli çözümlerimizle hizmetinizdeyiz."
+  },
+  {
+    "id": 66,
+    "ad": "Arnavutköy Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "arnavutkoy-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Arnavutköy'ün lojistik ve sanayi bölgelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı hizmeti sunar. Her kapasite ve kata uygun, güvenli dikey taşıma çözümleri sağlıyoruz."
+  },
+  {
+    "id": 67,
+    "ad": "Ataşehir Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "atasehir-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Ataşehir'deki iş merkezleri, depolar ve ticari işletmeler için özel hidrolik yük platformu ve lift imalatı, satışı ve montajı hizmeti sunar. Güvenli ve verimli dikey taşıma çözümleriyle Ataşehir'in hizmetindeyiz."
+  },
+  {
+    "id": 68,
+    "ad": "Avcılar Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "avcilar-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Avcılar'daki sanayi siteleri, depolar ve işletmeler için özel hidrolik yük platformu ve lift imalatı, satışı ve montajı hizmeti sunar. Güvenli ve verimli dikey taşıma çözümleriyle Avcılar sanayisinin hizmetindeyiz."
+  },
+  {
+    "id": 69,
+    "ad": "Bağcılar Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "bagcilar-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Bağcılar'daki İSTOÇ, Mahmutbey, Giyimkent gibi merkezlerdeki işletmelere özel hidrolik yük platformu ve lift imalatı, satışı ve montajı hizmeti sunar. Güvenli ve verimli dikey taşıma çözümleriyle hizmetinizdeyiz."
+  },
+  {
+    "id": 70,
+    "ad": "Bahçelievler Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "bahcelievler-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Bahçelievler, Yenibosna ve Kuyumcukent'teki işletmelere özel hidrolik yük platformu ve lift imalatı, satışı ve montajı hizmeti sunar. Güvenli ve verimli dikey taşıma çözümleriyle hizmetinizdeyiz."
+  },
+  {
+    "id": 71,
+    "ad": "Bakırköy Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "bakirkoy-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Bakırköy'deki AVM'ler, mağazalar ve iş merkezleri için özel hidrolik yük platformu, Bakırköy yük lifti ve lift imalatı, satışı ve montajı hizmeti sunar. Güvenli ve verimli dikey taşıma çözümleriyle hizmetinizdeyiz."
+  },
+  {
+    "id": 72,
+    "ad": "Başakşehir Hidrolik Yük Platformu | İmalat, Satış Montaj",
+    "slug": "basaksehir-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Başakşehir ve İkitelli OSB'deki sanayi tesisleri için özel hidrolik yük platformu imalatı, satışı ve montajı sunar. İhtiyacınıza göre tek/çift pistonlu, farklı tonaj ve durak sayılı, iç/dış mekana uygun yük liftlerini anahtar teslim projelendiriyoruz. Verimliliğinizi artıracak profesyonel ve güvenilir çözümler."
+  },
+  {
+    "id": 73,
+    "ad": "Bayrampaşa Hidrolik Yük Platformu | Lift İmalat, Satış & Montaj",
+    "slug": "bayrampasa-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Bayrampaşa sanayisi için özel hidrolik yük platformu ve lift imalatı, satışı ve montajı hizmeti sunmaktadır. İşletmenizin ihtiyacına göre farklı tonajlarda, tek veya çift pistonlu, iç/dış mekana uygun yük liftlerini anahtar teslim projelendiriyoruz. Güvenilir çözümlerle lojistik verimliliğinizi artırın."
+  },
+  {
+    "id": 74,
+    "ad": "Beylikdüzü Hidrolik Yük Platformu | Lift İmalat, Satış & Montaj",
+    "slug": "beylikduzu-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Beylikdüzü ve organize sanayi bölgelerindeki (OSB) işletmelere özel hidrolik yük platformu ve lift çözümleri sunar. Anahtar teslim imalat, satış ve montaj hizmetlerimizle, ihtiyacınıza uygun tek/çift pistonlu, farklı tonajlarda ve iç/dış mekana uyumlu sistemler kuruyoruz. Lojistik verimliliğinizi artırın."
+  },
+  {
+    "id": 75,
+    "ad": "Beyoğlu Hidrolik Yük Platformu | Lift İmalat, Satış & Montaj",
+    "slug": "beyoglu-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Beyoğlu'nun tarihi ve ticari dokusuna özel hidrolik yük platformu çözümleri sunar. Dar ve kısıtlı alanlar için butik lift imalatı, satışı ve montajı yapıyoruz. Mağaza, otel ve atölyelerin lojistik ihtiyaçlarına yönelik, güvenli ve mimariyle uyumlu sistemler için bize ulaşın."
+  },
+  {
+    "id": 76,
+    "ad": "Çatalca Hidrolik Yük Platformu | Ağır Sanayi Lift İmalat & Montaj",
+    "slug": "catalca-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Çatalca'nın ağır sanayi ve lojistik tesislerine özel hidrolik yük platformu imalatı, satışı ve montajı sunar. Yüksek tonajlı, dayanıklı ve dış mekan koşullarına uygun ağır hizmet tipi yük liftlerini anahtar teslim projelendiriyoruz. Güvenilir çözümlerle operasyonlarınıza güç katın."
+  },
+  {
+    "id": 77,
+    "ad": "Çekmeköy Hidrolik Yük Platformu | Lift İmalat, Satış & Montaj",
+    "slug": "cekmekoy-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Çekmeköy'deki sanayi siteleri, depolar ve atölyeler için özel hidrolik yük platformu imalatı, satışı ve montajı hizmeti sunmaktadır. İşletmenizin ihtiyacına özel, anahtar teslim, güvenilir ve verimli yük lifti çözümleriyle lojistik süreçlerinizi kolaylaştırıyoruz."
+  },
+  {
+    "id": 78,
+    "ad": "Esenler Hidrolik Yük Platformu | Lift İmalat, Satış & Montaj",
+    "slug": "esenler-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Esenler, Giyimkent ve Tekstilkent'teki işletmelere özel hidrolik yük platformu çözümleri sunar. Dar alanlara uygun, verimli ve güvenilir yük liftlerinin imalatı, satışı ve montajını yapıyoruz. Lojistik süreçlerinizi hızlandırmak için anahtar teslim projelerimizle yanınızdayız."
+  },
+  {
+    "id": 79,
+    "ad": "Esenyurt Hidrolik Yük Platformu | Sanayi Tipi Lift İmalat & Montaj",
+    "slug": "esenyurt-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Esenyurt sanayi bölgeleri ve lojistik merkezleri için ağır hizmet tipi hidrolik yük platformu çözümleri sunar. Yüksek tonajlı, dayanıklı ve forklift kullanımına uygun yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. Operasyonel gücünüzü artıracak mühendislik çözümleri için bize ulaşın."
+  },
+  {
+    "id": 80,
+    "ad": "Eyüp Hidrolik Yük Platformu | Lift İmalat, Satış & Montaj",
+    "slug": "eyup-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Eyüp (Eyüpsultan) bölgesindeki sanayi, atölye ve ticari işletmelere özel hidrolik yük platformu imalatı, satışı ve montajını yapar. Her mekana, hatta eski binalara dahi uygun, güvenilir ve verimli yük liftlerini anahtar teslim projelendiriyoruz. Lojistik verimliliğiniz için bize ulaşın."
+  },
+  {
+    "id": 81,
+    "ad": "Gaziosmanpaşa Hidrolik Yük Platformu | Lift İmalat, Satış & Montaj",
+    "slug": "gaziosmanpasa-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Gaziosmanpaşa'daki atölye, imalathane ve ticari işletmelere özel hidrolik yük platformu çözümleri sunar. Mekana özel tasarlanan, verimli ve güvenilir yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. Lojistik süreçlerinizi uzman çözümlerimizle optimize edin."
+  },
+  {
+    "id": 82,
+    "ad": "Güngören Hidrolik Yük Platformu | Tekstil Atölyelerine Özel Liftler",
+    "slug": "gungoren-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Güngören ve Merter'deki tekstil atölyelerine özel hidrolik yük platformu çözümleri sunar. Dar ve kısıtlı alanlara uygun, verimli ve güvenilir yük liftlerinin imalatı, satışı ve montajını yapıyoruz. Lojistik süreçlerinizi hızlandıracak butik çözümler için bize ulaşın."
+  },
+  {
+    "id": 83,
+    "ad": "Kadıköy Hidrolik Yük Platformu | Mağaza ve Dükkanlar İçin Lift Çözümleri",
+    "slug": "kadikoy-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Kadıköy'deki mağaza, kafe ve dükkanlara özel hidrolik yük platformu imalatı sunar. Dar alanlara uygun, sessiz, estetik ve güvenilir yük liftlerini anahtar teslim projelendiriyoruz. İşletmenizin lojistik verimliliğini artıracak butik çözümler için bize ulaşın."
+  },
+  {
+    "id": 84,
+    "ad": "Maltepe Hidrolik Yük Platformu | İmalat, Satış & Montaj Hizmetleri",
+    "slug": "maltepe-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Maltepe'deki sanayi siteleri, atölyeler ve ticari işletmelere özel hidrolik yük platformu imalatı, satışı ve montajı sunar. Her mekana uygun, güvenilir ve verimli yük liftlerini anahtar teslim projelendiriyoruz. Lojistik süreçlerinizi uzman mühendislik çözümlerimizle kolaylaştırın."
+  },
+  {
+    "id": 85,
+    "ad": "Sancaktepe Hidrolik Yük Platformu | Sanayi Tipi Lift İmalatı & Montajı",
+    "slug": "sancaktepe-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Sancaktepe sanayi bölgeleri ve lojistik merkezlerine özel hidrolik yük platformu çözümleri sunar. Yüksek kapasiteli, dayanıklı ve güvenilir yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. Endüstriyel operasyonlarınızı uzman mühendislik çözümlerimizle güçlendirin."
+  },
+  {
+    "id": 86,
+    "ad": "Sultanbeyli Hidrolik Yük Platformu | Lojistik & Sanayi Liftleri",
+    "slug": "sultanbeyli-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Sultanbeyli'nin lojistik ve sanayi bölgelerine özel hidrolik yük platformu çözümleri sunar. Yüksek kapasiteli, dayanıklı ve ağır hizmet tipi yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. Lojistik operasyonlarınızı güvenilir mühendislik çözümlerimizle optimize edin."
+  },
+  {
+    "id": 87,
+    "ad": "Sultangazi Hidrolik Yük Platformu | Sanayi & Atölye Tipi Lift İmalatı",
+    "slug": "sultangazi-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Sultangazi sanayi siteleri ve atölyelerine özel hidrolik yük platformu imalatı, satışı ve montajı yapmaktadır. Mekana özel, güvenilir ve verimli yük liftlerini anahtar teslim projelendiriyoruz. Üretim süreçlerinizi hızlandıracak mühendislik çözümleri için bize ulaşın."
+  },
+  {
+    "id": 88,
+    "ad": "Şile Hidrolik Yük Platformu | Dış Mekan & Villa Tipi Lift İmalatı",
+    "slug": "sile-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Şile'deki otel, villa ve restoranlara özel hidrolik yük platformu çözümleri sunar. Dış mekana dayanıklı, mimariyle uyumlu, sessiz ve estetik yük liftlerinin anahtar teslim imalat, satışı ve montajını yapıyoruz. Butik çözümlerimizle yaşam ve iş alanlarınızı kolaylaştırın."
+  },
+  {
+    "id": 89,
+    "ad": "Şişli Hidrolik Yük Platformu | Ofis & Mağaza Tipi Lift Çözümleri",
+    "slug": "sisli-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Şişli'deki ofis, plaza ve mağazalara özel hidrolik yük platformu çözümleri sunar. Dar alanlara uygun, sessiz ve mimariyle uyumlu yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. İşletmenizin prestijine yakışır butik çözümlerle lojistik verimliliğinizi artırın."
+  },
+  {
+    "id": 90,
+    "ad": "Ümraniye Hidrolik Yük Platformu | İMES & Dudullu Sanayi Liftleri",
+    "slug": "umraniye-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Ümraniye, İMES ve Dudullu OSB'deki sanayi tesislerine özel hidrolik yük platformu çözümleri sunar. Anahtar teslim imalat, satış ve montaj hizmetlerimizle, işletmenizin ihtiyacına uygun, güvenilir ve endüstriyel tip yük liftleri kuruyoruz. Lojistik verimliliğinizi artıracak mühendislik çözümleri için bize ulaşın."
+  },
+  {
+    "id": 91,
+    "ad": "Üsküdar Hidrolik Yük Platformu | Tarihi Binalar ve Dükkanlar İçin Liftler",
+    "slug": "uskudar-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Üsküdar'ın tarihi dokusuna uygun hidrolik yük platformu çözümleri sunar. Mağaza, kafe, konut ve tarihi binalar için özel, sessiz, estetik ve dar alanlara uyumlu yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. Butik çözümlerimizle hayatınızı kolaylaştırın."
+  },
+  {
+    "id": 92,
+    "ad": "Zeytinburnu Hidrolik Yük Platformu | Tekstil & Deri Sanayine Özel Liftler",
+    "slug": "zeytinburnu-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Zeytinburnu tekstil ve deri sanayisine özel hidrolik yük platformu çözümleri sunar. Dar alanlara ve ağır yüklere uygun, verimli ve güvenilir yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. Üretim süreçlerinizi uzman mühendislik çözümlerimizle hızlandırın."
+  },
+  {
+    "id": 93,
+    "ad": "Tuzla Orhanlı Hidrolik Yük Platformu | Birlik OSB Sanayi Tipi Liftler",
+    "slug": "orhanli-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Tuzla Orhanlı ve Birlik OSB'deki sanayi tesislerine özel hidrolik yük platformu imalatı, satışı ve montajı sunar. Ağır hizmet tipi, yüksek kapasiteli ve forklift kullanımına uygun yük liftlerini anahtar teslim projelendiriyoruz. Endüstriyel operasyonlarınızı güvenilir mühendislik çözümlerimizle güçlendirin."
+  },
+  {
+    "id": 94,
+    "ad": "Tuzla Tepeören Hidrolik Yük Platformu | OSB Sanayi Tipi Lift Çözümleri",
+    "slug": "tepeoren-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Tuzla Tepeören ve Anadolu Yakası OSB'deki sanayi tesislerine özel hidrolik yük platformu çözümleri sunar. Ağır hizmet tipi, yüksek kapasiteli ve forklift kullanımına uygun yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. Endüstriyel lojistiğinizi güvenilir mühendislik çözümlerimizle güçlendirin."
+  },
+  {
+    "id": 95,
+    "ad": "Samandıra Hidrolik Yük Platformu | Sanayi & Atölye Tipi Lift İmalatı",
+    "slug": "samandira-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Samandıra'nın sanayi siteleri, atölyeleri ve ticari işletmelerine özel hidrolik yük platformu çözümleri sunar. Anahtar teslim imalat, satış ve montaj hizmetlerimizle, işletmenizin ihtiyacına uygun, güvenilir ve verimli yük liftleri kuruyoruz."
+  },
+  {
+    "id": 96,
+    "ad": "İstanbul Geneli Hidrolik Yük Platformu | İmalat, Satış & Montaj",
+    "slug": "istanbul-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul'un 39 ilçesinde işletmelere ve konutlara özel hidrolik yük platformu imalatı, satışı ve montajı yapmaktadır. Sanayi, ticaret ve özel mülkler için anahtar teslim, güvenilir ve mekana özel yük lifti çözümleriyle lojistik süreçlerinizi ve yaşam konforunuzu artırıyoruz."
+  },
+  {
+    "id": 97,
+    "ad": "Kocaeli Geneli Hidrolik Yük Platformu | Sanayi Tipi Lift İmalatı",
+    "slug": "kocaeli-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Kocaeli'nin Gebze, İzmit ve OSB'ler gibi sanayi bölgelerine özel hidrolik yük platformu çözümleri sunar. Ağır sanayiye uygun, yüksek kapasiteli ve dayanıklı yük liftlerinin anahtar teslim imalat, satış ve montajını yapıyoruz. Endüstriyel operasyonlarınızı güvenilir mühendislik çözümlerimizle güçlendirin."
+  },
+  {
+    "id": 98,
+    "ad": "Samsun Hidrolik Yük Platformu | Karadeniz Sanayisine Özel Lift İmalatı",
+    "slug": "samsun-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Samsun'un sanayi bölgeleri, fabrikaları ve depoları için özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim çözümlerimizle dikey taşıma operasyonlarınızı modernize ediyor, üretkenliğinizi artırıyoruz."
+  },
+  {
+    "id": 99,
+    "ad": "İzmir Hidrolik Yük Platformu | Ege Bölgesi Sanayisine Özel Lift İmalatı",
+    "slug": "izmir-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, İzmir ve Ege Bölgesi sanayisine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. Fabrika, depo ve işletmeler için güvenli, verimli ve anahtar teslim dikey taşıma çözümleri sunarak operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 100,
+    "ad": "Sinop Hidrolik Yük Platformu | Depo & Atölye Tipi Lift İmalatı",
+    "slug": "sinop-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Sinop'taki atölye, depo ve ticari işletmelere özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İş yerinize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonlarınızı kolaylaştırıyoruz."
+  },
+  {
+    "id": 101,
+    "ad": "Kastamonu Hidrolik Yük Platformu | Sanayi & Atölye Tipi Lift İmalatı",
+    "slug": "kastamonu-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Kastamonu'nun sanayi bölgeleri, tarım işletmeleri ve atölyeleri için özel hidrolik yük platformu ve lift çözümleri sunar. Her işletmenin yapısına uygun, tek veya çift pistonlu, farklı tonaj ve durak sayısına sahip platformların imalatını, satışını ve profesyonel montajını anahtar teslim olarak gerçekleştirir."
+  },
+  {
+    "id": 102,
+    "ad": "Amasya Hidrolik Yük Platformu | Sanayi & Depo Tipi Lift İmalatı",
+    "slug": "amasya-hidrolik-yuk-platformu",
+    "resim":"/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Amasya'nın sanayi bölgeleri, fabrika ve depoları için özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
   }
 ]
