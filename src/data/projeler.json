@@ -717,7 +717,406 @@
     "id": 102,
     "ad": "Amasya Hidrolik Yük Platformu | Sanayi & Depo Tipi Lift İmalatı",
     "slug": "amasya-hidrolik-yuk-platformu",
-    "resim":"/assets/images/yukplat/yukplat3.webp",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
     "seoAciklama": "Deniz Mekanik, Amasya'nın sanayi bölgeleri, fabrika ve depoları için özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 103,
+    "ad": "Düzce Hidrolik Yük Platformu | OSB & Fabrika Tipi Lift İmalatı",
+    "slug": "duzce-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Düzce'nin Organize Sanayi Bölgeleri (OSB), fabrika ve depolarına özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 104,
+    "ad": "Sakarya Hidrolik Yük Platformu | Sanayi & OSB Tipi Lift İmalatı",
+    "slug": "sakarya-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Sakarya'nın organize sanayi bölgeleri (OSB), fabrika ve depolarına özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 105,
+    "ad": "Bursa Hidrolik Yük Platformu | Otomotiv & Tekstil Sanayisine Özel Lift İmalatı",
+    "slug": "bursa-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Bursa'nın otomotiv ve tekstil sanayisine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. Fabrika ve OSB'lere yönelik güvenli, verimli ve anahtar teslim dikey taşıma çözümlerimizle operasyonel verimliliğinizi ve rekabet gücünüzü artırıyoruz."
+  },
+  {
+    "id": 106,
+    "ad": "Balıkesir Hidrolik Yük Platformu | Sanayi & Gıda Sektörüne Özel Lift İmalatı",
+    "slug": "balikesir-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Balıkesir OSB, fabrika ve gıda işletmelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 107,
+    "ad": "Yalova Hidrolik Yük Platformu | OSB & Tersane Tipi Lift İmalatı",
+    "slug": "yalova-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Yalova'nın OSB, tersane ve sanayi tesislerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 108,
+    "ad": "Uşak Hidrolik Yük Platformu | Deri & Tekstil Sanayisine Özel Lift İmalatı",
+    "slug": "usak-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Uşak'ın deri, tekstil ve organize sanayi bölgelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 109,
+    "ad": "Denizli Hidrolik Yük Platformu | Tekstil & Mermer Sanayisine Özel Lift İmalatı",
+    "slug": "denizli-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Denizli'nin tekstil, mermer ve organize sanayi bölgelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 110,
+    "ad": "Muğla Hidrolik Yük Platformu | Otel & Mermer Sektörüne Özel Lift İmalatı",
+    "slug": "mugla-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Muğla'nın otel, turizm tesisi ve mermer işletmelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, estetik ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi ve hizmet kalitenizi artırıyoruz."
+  },
+  {
+    "id": 111,
+    "ad": "Manisa Hidrolik Yük Platformu | OSB & Sanayi Tipi Lift İmalatı",
+    "slug": "manisa-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Manisa Organize Sanayi Bölgesi (MOSB), fabrika ve depolarına özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 112,
+    "ad": "Çanakkale Hidrolik Yük Platformu | Sanayi & Gıda Sektörüne Özel Lift İmalatı",
+    "slug": "canakkale-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Çanakkale'nin sanayi bölgeleri, gıda tesisleri ve depolarına özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 113,
+    "ad": "Antalya Hidrolik Yük Platformu | Otel & Sanayi Tipi Lift İmalatı",
+    "slug": "antalya-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Antalya'nın otel, turizm tesisi ve organize sanayi bölgelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, estetik ve anahtar teslim dikey taşıma çözümleriyle hizmet kalitenizi ve verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 114,
+    "ad": "Afyonkarahisar Hidrolik Yük Platformu | Mermer & Gıda Sanayisine Özel Lift İmalatı",
+    "slug": "afyon-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Afyon'un mermer, gıda ve organize sanayi bölgelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 116,
+    "ad": "Kütahya Hidrolik Yük Platformu | Porselen & Sanayi Tipi Lift İmalatı",
+    "slug": "kutahya-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Kütahya porselen, seramik ve sanayi tesislerine özel hidrolik yük platformu ve lift imalatı yapmaktadır. İşletmenize özel tasarlanan güvenli, sarsıntısız ve anahtar teslim dikey taşıma çözümleriyle hassas ürünlerinizi koruyor, operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 117,
+    "ad": "Eskişehir Hidrolik Yük Platformu | Sanayi & OSB Tipi Lift İmalatı",
+    "slug": "eskisehir-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Eskişehir Organize Sanayi Bölgesi (EOSB) ve fabrikalarına özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 118,
+    "ad": "Bartın Hidrolik Yük Platformu | OSB & Sanayi Tipi Lift İmalatı",
+    "slug": "bartin-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Bartın Organize Sanayi Bölgesi, fabrika ve ticari işletmelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 119,
+    "ad": "Zonguldak Hidrolik Yük Platformu | Demir-Çelik & Sanayi Tipi Lift İmalatı",
+    "slug": "zonguldak-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Zonguldak demir-çelik sanayisi, OSB'ler ve liman işletmelerine özel ağır hizmet tipi hidrolik yük platformu ve lift imalatı yapmaktadır. İşletmenize özel tasarlanan güvenli, dayanıklı ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 120,
+    "ad": "Edirne Hidrolik Yük Platformu | Sanayi & Ticaret Tipi Lift İmalatı",
+    "slug": "edirne-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Edirne'nin sanayi bölgeleri, fabrika ve ticari işletmelerine özel hidrolik yük platformu ve lift imalatı, satışı ve montajı yapmaktadır. İşletmenize özel tasarlanan güvenli, verimli ve anahtar teslim dikey taşıma çözümleriyle operasyonel verimliliğinizi artırıyoruz."
+  },
+  {
+    "id": 121,
+    "ad": "Tekirdağ Hidrolik Yük Platformu | Sanayi & OSB Tipi Lift İmalatı",
+    "slug": "tekirdag-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Tekirdağ sanayisine özel hidrolik yük platformu ve lift çözümleri sunar. Çorlu, Çerkezköy ve Ergene gibi OSB'lerdeki fabrikalar için projelendirme, imalat ve montaj hizmetleri sağlıyoruz. İşletmenizin ihtiyaçlarına uygun, güvenli ve verimli dikey taşıma sistemleri ile anahtar teslim projeler sunmaktayız."
+  },
+  {
+    "id": 122,
+    "ad": "Kırklareli Hidrolik Yük Platformu | OSB & Sanayi Tipi Lift İmalatı",
+    "slug": "kirklareli-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Kırklareli sanayisine özel hidrolik yük platformu ve lift çözümleri sunar. Lüleburgaz ve Babaeski gibi OSB'lerdeki fabrikalar için projelendirme, imalat ve montaj hizmetleri sağlıyoruz. İşletmenizin ihtiyaçlarına uygun, güvenli ve verimli dikey taşıma sistemleri ile anahtar teslim projeler sunmaktayız."
+  },
+  {
+    "id": 123,
+    "ad": "Çorlu Hidrolik Yük Platformu | Sanayi & OSB Tipi Lift İmalatı",
+    "slug": "corlu-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Çorlu sanayisine özel hidrolik yük platformu ve lift çözümleri sunar. Deri OSB ve Avrupa Serbest Bölgesi gibi sanayi merkezlerindeki fabrikalar için projelendirme, imalat ve montaj hizmetleri sağlıyoruz. İşletmenizin ihtiyaçlarına uygun, güvenli ve verimli dikey taşıma sistemleriyle anahtar teslim projeler sunmaktayız."
+  },
+  {
+    "id": 124,
+    "ad": "Lefkoşa Hidrolik Yük Platformu | Kıbrıs Sanayi & Ticaret Tipi Lift İmalatı",
+    "slug": "lefkosa-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat1.webp",
+    "seoAciklama": "Deniz Mekanik, Kıbrıs Lefkoşa'daki sanayi ve ticaret işletmeleri için özel hidrolik yük platformu ve lift çözümleri sunar. Fabrikalar, oteller, depolar ve mağazaların ihtiyaçlarına yönelik projelendirme, imalat ve montaj hizmetleri veriyoruz. Kıbrıs geneline güvenli, anahtar teslim dikey taşıma sistemleri kurmaktayız"
+  },
+  {
+    "id": 125,
+    "ad": "Kıbrıs Hidrolik Yük Platformu | Sanayi & Otel Tipi Lift İmalatı",
+    "slug": "kibris-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Kıbrıs genelinde sanayi tesisleri, oteller ve ticari işletmeler için özel hidrolik yük platformu ve lift çözümleri sunar. Lefkoşa, Girne ve Mağusa başta olmak üzere tüm adaya projelendirme, imalat ve montaj hizmetleri sağlıyoruz. İşletmenize özel, güvenli ve anahtar teslim dikey taşıma sistemleri kurmaktayız."
+  },
+  {
+    "id": 126,
+    "ad": "Bilecik Hidrolik Yük Platformu | OSB & Sanayi Tipi Lift İmalatı",
+    "slug": "bilecik-hidrolik-yuk-platformu",
+    "resim": "/assets/images/yukplat/yukplat3.webp",
+    "seoAciklama": "Deniz Mekanik, Bilecik sanayisine özel hidrolik yük platformu ve lift çözümleri sunar. Bozüyük ve Pazaryeri başta olmak üzere tüm OSB'lerdeki fabrikalar için projelendirme, imalat ve montaj hizmetleri sağlıyoruz. İşletmenizin ihtiyaçlarına uygun, güvenli ve anahtar teslim endüstriyel dikey taşıma sistemleri kurmaktayız."
+  },
+  {
+    "id": 127,
+    "ad": "Hidrolik Yük Platformu Projeleri | Sanayi Tipi Yük Lifti İmalatı",
+    "slug": "hidrolik-yuk-platformu-projesi",
+    "resim": "/assets/images/yukplat/yukplat5.webp",
+    "seoAciklama": "Deniz Mekanik, Türkiye ve Kıbrıs genelindeki sanayi tesisleri, fabrikalar ve depolar için özel hidrolik yük platformu projeleri geliştirir. İşletmenizin ihtiyaçlarına göre her kapasitede sanayi tipi yük lifti imalatı, satışı ve montajını gerçekleştiriyoruz. Güvenilir, verimli ve anahtar teslim dikey taşıma çözümleri sunuyoruz."
+  },
+  {
+    "id": 128,
+    "ad": "Tuzla Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "tuzla-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Tuzla sanayi bölgeleri, OSB'ler ve tersaneler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza müdahalesi, periyodik bakım, tamir ve revizyon hizmetlerimizle asansörlerinizin kesintisiz ve güvenli çalışmasını sağlıyoruz. Uzman ekibimizle hızlı ve garantili onarım çözümleri sunmaktayız."
+  },
+  {
+    "id": 129,
+    "ad": "Pendik Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "pendik-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Pendik sanayi bölgelerindeki fabrikalar ve depolar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza müdahalesi, periyodik bakım, onarım ve revizyon hizmetlerimizle, asansörlerinizin güvenli ve kesintisiz çalışmasını sağlıyoruz. Bölgedeki uzman ekibimizle hızlı ve garantili çözümler sunmaktayız."
+  },
+  {
+    "id": 130,
+    "ad": "Kartal Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "kartal-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Kartal'daki sanayi ve ticaret bölgeleri için profesyonel hidrolik yük asansörü servisi sunar. Fabrika ve depolarınızdaki asansörler için acil arıza, periyodik bakım, onarım ve revizyon hizmetleri sağlıyoruz. Bölgedeki uzman ekibimizle hızlı, garantili ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 131,
+    "ad": "Kurtköy Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Onarım",
+    "slug": "kurtkoy-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Kurtköy'deki lojistik merkezleri ve sanayi tesisleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, operasyonlarınızın aksamasını önlüyoruz. Bölgedeki uzman ekibimizle hızlı, güvenilir ve garantili teknik destek sağlıyoruz."
+  },
+  {
+    "id": 132,
+    "ad": "Arnavutköy Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "arnavutkoy-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Arnavutköy, Hadımköy ve Deliklikaya sanayi bölgelerindeki fabrikalar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza müdahalesi, periyodik bakım, onarım ve revizyon hizmetlerimizle üretim ve lojistik akışınızın kesintisizliğini sağlıyoruz. Bölgedeki uzman ekibimizle hızlı ve garantili çözümler sunmaktayız."
+  },
+  {
+    "id": 133,
+    "ad": "Ataşehir Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Onarım",
+    "slug": "atasehir-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Ataşehir'deki iş merkezleri, plazalar ve ticari tesisler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, iş akışınızın kesintiye uğramasını önlüyoruz. Bölgedeki uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 134,
+    "ad": "Bağcılar Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "bagcilar-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Bağcılar, İSTOÇ, Mahmutbey ve Güneşli'deki sanayi bölgeleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza müdahalesi, periyodik bakım, tamir ve revizyon hizmetlerimizle, üretim ve ticaret akışınızın devamlılığını sağlıyoruz. Uzman ekibimizle hızlı ve garantili çözümler sunmaktayız"
+  },
+  {
+    "id": 135,
+    "ad": "Bahçelievler Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "bahcelievler-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Bahçelievler ve Yenibosna'daki sanayi siteleri ile tekstil atölyeleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretiminizin aksamasını önlüyoruz. Bölgedeki uzman ekibimizle hızlı ve garantili teknik destek sağlıyoruz."
+  },
+  {
+    "id": 136,
+    "ad": "Bakırköy Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "bakirkoy-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Bakırköy, Florya ve Ataköy'deki iş merkezleri, AVM ve mağazalar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza müdahalesi, periyodik bakım, onarım ve revizyon hizmetlerimizle, ticari operasyonlarınızın devamlılığını sağlıyoruz. Bölgedeki uzman ekibimizle hızlı ve garantili çözümler için bize ulaşın."
+  },
+  {
+    "id": 137,
+    "ad": "Başakşehir Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "basaksehir-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Başakşehir ve İkitelli OSB'deki sanayi tesisleri ve fabrikalar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza müdahalesi, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretiminizin kesintisizliğini sağlıyoruz. Bölgedeki uzman ekibimizle hızlı ve garantili çözümler için bize ulaşın."
+  },
+  {
+    "id": 138,
+    "ad": "Bayrampaşa Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "bayrampasa-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Bayrampaşa, Rami ve Maltepe Sanayi Sitesi'ndeki atölye ve işletmeler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza müdahalesi, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve ticaret akışınızın devamlılığını sağlıyoruz. Uzman ekibimizle hızlı ve garantili çözümler için bize ulaşın."
+  },
+  {
+    "id": 139,
+    "ad": "Beylikdüzü Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "beylikduzu-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Beylikdüzü'ndeki Birlik, Mermerciler ve Bakırcılar Sanayi Siteleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim süreçlerinizin kesintisizliğini sağlıyoruz. Bölgedeki uzman ekibimizle hızlı ve garantili çözümler için bize ulaşın."
+  },
+  {
+    "id": 140,
+    "ad": "Beyoğlu Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "beyoglu-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Beyoğlu, Karaköy ve Tophane'deki tarihi binalar, oteller ve iş yerleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, ticari faaliyetlerinizin devamlılığını sağlıyoruz. Tarihi yapılara özel, hızlı ve güvenilir çözümler sunmaktayız."
+  },
+  {
+    "id": 141,
+    "ad": "Çatalca Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "catalca-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Çatalca Serbest Bölgesi ve çevresindeki sanayi tesisleri ile fabrikalar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretiminizin aksamasını önlüyoruz. Bölgedeki uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 142,
+    "ad": "Çekmeköy Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "cekmekoy-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Çekmeköy, Alemdağ ve çevresindeki sanayi ve ticaret bölgeleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sevkiyat süreçlerinizi güvence altına alıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 143,
+    "ad": "Esenler Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "esenler-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Esenler, Giyimkent ve Tekstilkent'teki tekstil atölyeleri ve işletmeler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sipariş süreçlerinizi güvence altına alıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 144,
+    "ad": "Esenyurt Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "esenyurt-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Esenyurt, Kıraç ve Akçaburgaz sanayi bölgelerindeki fabrikalar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sevkiyat akışınızın devamlılığını sağlıyoruz. Uzman ekibimizle hızlı ve garantili çözümler için bize ulaşın."
+  },
+  {
+    "id": 145,
+    "ad": "Eyüp Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "eyup-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Eyüpsultan (Eyüp) ve Rami'deki sanayi ve ticaret bölgeleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve ticaret akışınızın devamlılığını sağlıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 146,
+    "ad": "Gaziosmanpaşa Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "gaziosmanpasa-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Gaziosmanpaşa'daki sanayi siteleri, atölyeler ve imalathaneler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim süreçlerinizin devamlılığını sağlıyoruz. Bölgedeki uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 147,
+    "ad": "Güngören Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "gungoren-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Güngören, Merter ve Davutpaşa'daki tekstil atölyeleri ve sanayi siteleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sevkiyat süreçlerinizi güvence altına alıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 148,
+    "ad": "Kadıköy Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "kadikoy-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Kadıköy, Moda ve Bağdat Caddesi'ndeki mağazalar, restoranlar ve işletmeler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, ticari faaliyetlerinizi güvence altına alıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 149,
+    "ad": "Maltepe Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Onarım",
+    "slug": "maltepe-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Maltepe'deki sanayi siteleri, atölyeler ve ticari işletmeler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sevkiyat akışınızı güvence altına alıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 150,
+    "ad": "Sancaktepe Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Onarım",
+    "slug": "sancaktepe-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Sancaktepe, Samandıra ve Ferhatpaşa'daki sanayi tesisleri ve fabrikalar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretiminizin aksamasını önlüyoruz. Bölgedeki uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 151,
+    "ad": "Sultanbeyli Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Onarım",
+    "slug": "sultanbeyli-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Sultanbeyli'deki sanayi siteleri, atölyeler ve depolar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sevkiyat akışınızı güvence altına alıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 152,
+    "ad": "Sultangazi Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "sultangazi-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Sultangazi, Cebeci ve Esentepe'deki sanayi siteleri ile atölyeler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretiminizin aksamasını önlüyoruz. Bölgedeki uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 153,
+    "ad": "Şile Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "sile-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Şile ve Ağva'daki oteller, restoranlar ve işletmeler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, hizmet kalitenizin ve operasyonlarınızın devamlılığını sağlıyoruz. Bölgedeki uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 154,
+    "ad": "Şişli Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "sisli-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Şişli, Mecidiyeköy, Osmanbey ve Bomonti'deki iş merkezleri, oteller ve atölyeler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, ticari faaliyetlerinizi güvence altına alıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 155,
+    "ad": "Ümraniye Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "umraniye-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Ümraniye, İMES, Dudullu ve Modoko'daki sanayi bölgeleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza müdahalesi, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sevkiyat akışınızın devamlılığını sağlıyoruz. Bölgedeki uzman ekibimizle hızlı ve güvenilir çözümler sunmaktayız."
+  },
+  {
+    "id": 156,
+    "ad": "Üsküdar Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "uskudar-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Üsküdar, Kuzguncuk ve Çengelköy'deki tarihi binalar, restoranlar ve işletmeler için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, ticari operasyonlarınızı güvence altına alıyoruz. Tarihi yapılara özel, hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 157,
+    "ad": "Zeytinburnu Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Revizyon",
+    "slug": "zeytinburnu-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Zeytinburnu, Topkapı ve Davutpaşa'daki tekstil atölyeleri, matbaalar ve fabrikalar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretiminizin kesintisizliğini sağlıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 158,
+    "ad": "Kurnaköy Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "kurnakoy-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Pendik Kurnaköy'deki lojistik merkezleri, fabrikalar ve depolar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, tedarik zincirinizin aksamasını önlüyoruz. Bölgedeki uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 159,
+    "ad": "Samandıra Hidrolik Yük Asansörü Servisi | Bakım, Tamir & Onarım",
+    "slug": "samandira-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat6.webp",
+    "seoAciklama": "Deniz Mekanik, Sancaktepe Samandıra'daki sanayi siteleri, fabrikalar ve depolar için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sevkiyat akışınızı güvence altına alıyoruz. Uzman ekibimizle hızlı ve güvenilir çözümler için bize ulaşın."
+  },
+  {
+    "id": 160,
+    "ad": "İstanbul Hidrolik Yük Asansörü Servisi | Bakım, Onarım & Revizyon",
+    "slug": "istanbul-hidrolik-yuk-asansoru-bakim-onarim",
+    "resim": "/assets/images/yukplat/yukplat7.webp",
+    "seoAciklama": "Deniz Mekanik, İstanbul'un 39 ilçesindeki sanayi, ticaret ve lojistik tesisleri için profesyonel hidrolik yük asansörü servisi sunar. Acil arıza, periyodik bakım, onarım ve revizyon hizmetlerimizle, üretim ve sevkiyat akışınızı güvence altına alıyoruz. Geniş servis ağımızla hızlı ve garantili çözümler için bize ulaşın."
   }
 ]
