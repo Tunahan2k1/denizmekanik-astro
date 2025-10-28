@@ -1,6 +1,35 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import allProductGroups from '../data/urun-gruplari.json';
+
+// 1. ADIM: Schema.org için gerekli listeyi oluştur.
+const itemListElements = allProductGroups.map((group, index) => ({
+  "@type": "ListItem",
+  "position": index + 1,
+  "name": group.ad,
+  "url": `https://www.denizmekanik.com/urunler/${group.slug}`
+}));
+
+// 2. ADIM: Tüm yapısal veri nesnesini burada hazırla.
+const schemaData = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Vinç Çeşitleri ve Ürün Grupları",
+  "description": "Deniz Mekanik'in ürettiği köprü vinç, portal vinç, monoray vinç, pergel vinç ve diğer vinç çeşitleri. Endüştriyel ihtiyaçlarınıza uygun kaliteli vinç çözümleri.",
+  "url": "https://www.denizmekanik.com/urun-gruplari",
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": itemListElements.length, // Değişkeni burada kullan
+    "itemListElement": itemListElements      // Diziyi doğrudan buraya ekle
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "https://www.denizmekanik.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Ürün Grupları", "item": "https://www.denizmekanik.com/urun-gruplari" }
+    ]
+  }
+};
 ---
 
 <Layout title="Vinç Çeşitleri ve Ürün Grupları | Deniz Mekanik">
@@ -9,43 +38,25 @@ import allProductGroups from '../data/urun-gruplari.json';
     <meta name="keywords" content="vinç çeşitleri, köprü vinç, portal vinç, monoray vinç, pergel vinç, vinç modelleri, endüstriyel vinç, vinç imalatı, Deniz Mekanik" />
     <link rel="canonical" href="https://www.denizmekanik.com/urun-gruplari" />
 
-    <!-- Open Graph Etiketleri -->
+    {/* Open Graph & Twitter etiketleri burada... (değişiklik yok) */}
     <meta property="og:title" content="Vinç Çeşitleri ve Ürün Grupları | Deniz Mekanik" />
     <meta property="og:description" content="Deniz Mekanik'in ürettiği köprü vinç, portal vinç, monoray vinç, pergel vinç ve diğer vinç çeşitleri." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.denizmekanik.com/urun-gruplari" />
     <meta property="og:image" content="https://www.denizmekanik.com/assets/images/urungrup/vinc-gruplari.jpg" />
     <meta property="og:site_name" content="Deniz Mekanik" />
-
-    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Vinç Çeşitleri ve Ürün Grupları | Deniz Mekanik" />
     <meta name="twitter:description" content="Deniz Mekanik'in ürettiği köprü vinç, portal vinç, monoray vinç, pergel vinç ve diğer vinç çeşitleri." />
     <meta name="twitter:image" content="https://www.denizmekanik.com/assets/images/urungrup/vinc-gruplari.jpg" />
 
-    <!-- Yapısal Veri (Schema.org) -->
+    {/* Yapısal Veri (Schema.org) - TAMAMEN DÜZELTİLDİ */}
     <script type="application/ld+json" is:inline>
-      {
-        "@context": "https://schema.org",
-        "@type": "CollectionPage",
-        "name": "Vinç Çeşitleri ve Ürün Grupları",
-        "description": "Deniz Mekanik'in ürettiği köprü vinç, portal vinç, monoray vinç, pergel vinç ve diğer vinç çeşitleri. Endüstriyel ihtiyaçlarınıza uygun kaliteli vinç çözümleri.",
-        "url": "https://www.denizmekanik.com/urun-gruplari",
-        "mainEntity": {
-          "@type": "ItemList",
-          "numberOfItems": {itemListElements.length},
-          "itemListElement": {JSON.stringify(itemListElements)}
-        },
-        "breadcrumb": {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "https://www.denizmekanik.com/" },
-            { "@type": "ListItem", "position": 2, "name": "Ürün Grupları", "item": "https://www.denizmekanik.com/urun-gruplari" }
-          ]
-        }
-      }
+      {JSON.stringify(schemaData)}
     </script>
   </Fragment>
+  
+  {/* Sayfanın geri kalanı (değişiklik yok) */}
   <div class="container mt-5">
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb bg-transparent p-0">
@@ -57,13 +68,9 @@ import allProductGroups from '../data/urun-gruplari.json';
       <h1 class="display-4 font-weight-bold">Vinç Çeşitleri</h1>
       <p class="lead text-muted">70 yıllık tecrübemizle her ihtiyaca uygun, güvenilir ve %100 yerli üretim vinç sistemleri.</p>
     </div>
-    
     <div class="row">
       {allProductGroups.map(group => {
-        // === DÜZELTME BURADA ===
-        // 1. Önce açıklamadaki tüm HTML etiketlerini bir regex ile temizle.
         const cleanDescription = group.seo_aciklama.replace(/<[^>]*>?/gm, '');
-        // 2. Temiz metni kısalt.
         const shortDescription = cleanDescription.substring(0, 120) + '...';
 
         return (
@@ -72,7 +79,6 @@ import allProductGroups from '../data/urun-gruplari.json';
               <img src={group.resim} class="card-img-top" alt={group.ad} style="height: 220px; object-fit: cover;" />
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title font-weight-bold">{group.ad}</h5>
-                {/* Temiz ve kısaltılmış metni bas */}
                 <p class="card-text small text-muted">{shortDescription}</p>
                 <a href={`/urunler/${group.slug}`} class="btn btn-primary mt-auto">Ürünleri Gör</a>
               </div>
