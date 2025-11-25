@@ -2,57 +2,106 @@
 const currentYear = new Date().getFullYear();
 ---
 
-<footer class="bg-dark text-white mt-5 py-4">
-  <!-- Footer içeriği aynı kalacak... -->
+<footer class="bg-dark text-white mt-5 py-5">
   <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 col-md-12 text-center text-lg-left mb-3 mb-lg-0">
-        <p class="mb-2">
-          &copy; {currentYear} Deniz Mekanik - Tüm Hakları Saklıdır
+    <div class="row">
+      <!-- SOL SÜTUN: Marka, Telif, Sitemap ve Sosyal Medya -->
+      <div class="col-lg-5 col-md-12 mb-4 mb-lg-0 text-center text-lg-left">
+        <h5 class="text-uppercase mb-3 font-weight-bold text-white">
+          Deniz Mekanik
+        </h5>
+        <p class="mb-3 text-white-50 small">
+          &copy; {currentYear} Tüm Hakları Saklıdır.
         </p>
-        <div>
-          <a href="/sitemap.xml" class="text-white small">Site Haritası</a> |
-          <a href="/gizlilik-politikasi" class="text-white small"
-            >Gizlilik Politikası</a
+
+        <!-- Sosyal Medya İkonları (Sola alındı) -->
+        <div class="mb-3">
+          <a
+            href="https://www.facebook.com/denizmekanik"
+            class="text-white mr-3"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Facebook"><i class="fab fa-facebook-f"></i></a
+          >
+          <a
+            href="https://www.instagram.com/denizmekanik"
+            class="text-white mr-3"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Instagram"><i class="fab fa-instagram"></i></a
+          >
+          <a
+            href="https://www.linkedin.com/in/deniz-mekanik-8816699a/"
+            class="text-white mr-3"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a
+          >
+          <a
+            href="https://www.youtube.com/@DenizMekanik"
+            class="text-white"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="YouTube"><i class="fab fa-youtube"></i></a
           >
         </div>
+
+        <!-- Sitemap Linki (Düzeltildi) -->
+        <div>
+          <a
+            href="/sitemap-0.xml"
+            class="text-white-50 small text-decoration-none hover-light"
+          >
+            <i class="fas fa-sitemap mr-1"></i> Site Haritası
+          </a>
+        </div>
       </div>
-      <div class="col-lg-6 col-md-12 text-center text-lg-right">
-        <a
-          href="https://www.facebook.com/denizmekanik"
-          class="text-white mr-3"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Facebook Sayfamız"><i class="fab fa-facebook-f"></i></a
+
+      <!-- SAĞ SÜTUN: SEO Odaklı Hizmet Linkleri -->
+      <div
+        class="col-lg-7 col-md-12 text-center text-lg-right d-flex flex-column justify-content-center"
+      >
+        <h6
+          class="text-uppercase mb-3 font-weight-bold text-white border-bottom d-inline-block mx-auto mx-lg-0 ml-lg-auto pb-1"
+          style="width: fit-content; border-color: #6c757d !important;"
         >
-        <a
-          href="https://www.instagram.com/denizmekanik"
-          class="text-white mr-3"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Instagram Profilimiz"><i class="fab fa-instagram"></i></a
-        >
-        <a
-          href="https://www.linkedin.com/in/deniz-mekanik-8816699a/"
-          class="text-white mr-3"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="LinkedIn Şirket Profilimiz"
-          ><i class="fab fa-linkedin-in"></i></a
-        >
-        <a
-          href="https://www.youtube.com/@DenizMekanik"
-          class="text-white"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="YouTube Kanalımız"><i class="fab fa-youtube"></i></a
-        >
+          Öne Çıkan Hizmetlerimiz
+        </h6>
+        <ul class="list-unstyled mb-0">
+          <li class="mb-2">
+            <a
+              href="/proje/yuk-asansoru-vinc-sistemleri-cozumleri"
+              class="text-white footer-seo-link"
+            >
+              <i class="fas fa-chevron-right small mr-2 d-lg-none"></i>Yük
+              Asansörü İmalatı ve Bakım Servisi
+            </a>
+          </li>
+          <li class="mb-2">
+            <a
+              href="/proje/torna-bohrwerk-talasli-imalat-genel"
+              class="text-white footer-seo-link"
+            >
+              <i class="fas fa-chevron-right small mr-2 d-lg-none"></i>Torna &
+              Bohrwerk: Ağır Sanayi İçin Fason Talaşlı İmalat
+            </a>
+          </li>
+          <li>
+            <a
+              href="/proje/disli-imalati-hassas-taslama-genel"
+              class="text-white footer-seo-link"
+            >
+              <i class="fas fa-chevron-right small mr-2 d-lg-none"></i>Özel
+              Dişli İmalatı, Tamiri ve Hassas Taşlama Hizmetleri
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
 </footer>
 
-<!-- === GÜNCELLENMİŞ SABİT İLETİŞİM BLOĞU === -->
+<!-- === GÜNCELLENMİŞ SABİT İLETİŞİM BLOĞU (Aynı kaldı) === -->
 <div class="fixed-contact-buttons">
   <a
     href="https://wa.me/905326948116?text=Merhaba%20sipariş%20vermek%20istiyorum"
@@ -77,15 +126,30 @@ const currentYear = new Date().getFullYear();
   </a>
 </div>
 
-<!-- === GÜNCELLENMİŞ BİLEŞENE ÖZEL STİLLER === -->
+<!-- === STİLLER === -->
 <style>
+  /* Footer Linkleri için Özel Efekt */
+  .footer-seo-link {
+    text-decoration: none;
+    transition: all 0.3s ease;
+    opacity: 0.8;
+  }
+
+  .footer-seo-link:hover {
+    opacity: 1;
+    color: #ffc107 !important; /* Hoverda sarımsı bir renk (Bootstrap warning rengi) ile dikkat çeker */
+    padding-left: 5px; /* Hafif sağa kayma efekti */
+  }
+
+  .hover-light:hover {
+    color: #fff !important;
+  }
+
   /* === MASAÜSTÜ STİLLERİ (768px ve üzeri) === */
   .fixed-contact-buttons {
     position: fixed;
-    /* DEĞİŞTİ: Dikeyde ortalamak yerine alta konumlandırıldı */
-    bottom: 20px; /* Alttan 20px boşluk bırak */
+    bottom: 20px;
     left: 0;
-    /* KALDIRILDI: top ve transform özellikleri artık gerekli değil */
     z-index: 1000;
     display: flex;
     flex-direction: column;
@@ -95,12 +159,10 @@ const currentYear = new Date().getFullYear();
   .contact-button {
     display: flex;
     align-items: center;
-    /* DEĞİŞTİ: Yüksekliği azaltmak için padding değeri düşürüldü */
     padding: 10px 16px;
     background-color: #343a40;
     color: white;
     text-decoration: none;
-    /* DEĞİŞTİ: Yazı boyutu küçültüldü */
     font-size: 13px;
     font-weight: 500;
     border-top-right-radius: 8px;
@@ -111,7 +173,6 @@ const currentYear = new Date().getFullYear();
   }
 
   .contact-button i {
-    /* DEĞİŞTİ: İkon boyutu küçültüldü */
     font-size: 20px;
     min-width: 20px;
   }
@@ -125,6 +186,7 @@ const currentYear = new Date().getFullYear();
   .contact-button.email {
     background-color: #6c757d;
   }
+
   .contact-button.whatsapp:hover {
     background-color: #128c7e;
   }
@@ -136,7 +198,6 @@ const currentYear = new Date().getFullYear();
   }
 
   /* === MOBİL STİLLERİ (768px altı) === */
-  /* Bu kısımda herhangi bir değişiklik yapılmadı */
   @media (max-width: 767.98px) {
     .fixed-contact-buttons {
       top: auto;
@@ -156,9 +217,6 @@ const currentYear = new Date().getFullYear();
       border-radius: 0;
       transform: translateX(0);
       transition: background-color 0.2s;
-    }
-
-    .contact-button {
       flex-direction: column;
       gap: 4px;
     }
@@ -167,10 +225,6 @@ const currentYear = new Date().getFullYear();
       transform: translateX(0);
       margin: 0;
       font-size: 20px;
-    }
-
-    .fixed-contact-buttons:hover .contact-button {
-      transform: translateX(0);
     }
   }
 </style>
